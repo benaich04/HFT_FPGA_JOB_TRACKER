@@ -1,0 +1,499 @@
+# ============================================================================
+# HFT FPGA Job Tracker — Configuration (V2)
+# ============================================================================
+# V2 philosophy: config provides HINTS, not truth. `ats`/`token` are optional
+# hints; when they fail (INVALID_TOKEN) the tracker auto-discovers the real
+# board from the careers page and persists it to data/discovered_ats.json.
+# You should never need to hand-maintain tokens again.
+# ============================================================================
+
+settings:
+  request_delay_seconds: 2.0        # politeness between requests (env: TRACKER_REQUEST_DELAY)
+  request_timeout_seconds: 25
+  respect_robots_txt: true          # never bypassed; blocked firms are listed in README
+  user_agent: "HFT-FPGA-Job-Tracker/2.0 (github.com/YOUR_USERNAME/HFT_FPGA_JOB_TRACKER; personal internship search)"
+  fetch_descriptions: true
+  max_description_length: 300
+
+  # --- Relevance ---
+  min_confidence: 70                # jobs below this score are rejected (0-99)
+  include_graduate_programs: true   # 'Graduate FPGA Engineer' etc. (set false for interns/co-ops only)
+  include_remote: true              # keep 'Remote' roles with no specific country
+  allow_unknown_location: true      # keep link-scraped jobs with no visible location (flagged, -10 score)
+
+  # --- JS rendering ---
+  enable_playwright: true
+  playwright_timeout_seconds: 35
+
+  # --- Self-healing discovery ---
+  discovery:
+    allow_token_guessing: true      # verify a few name-derived tokens against public ATS APIs
+    max_guesses: 4
+
+  # --- Job lifecycle ---
+  stale_after_days: 45              # close unseen jobs after 45d when source was unhealthy
+  api_missing_runs_to_close: 2      # close after 2 consecutive healthy-API misses (ATS says gone)
+
+  # --- Notifications (all optional, off by default; secrets via env vars) ---
+  notifications:
+    enabled: false
+    min_confidence: 80              # only notify for jobs at/above this score
+    channels:
+      discord:
+        enabled: false
+        webhook_env: DISCORD_WEBHOOK_URL
+      slack:
+        enabled: false
+        webhook_env: SLACK_WEBHOOK_URL
+      email:
+        enabled: false
+        smtp_host: smtp.gmail.com
+        smtp_port: 587
+        username_env: SMTP_USERNAME
+        password_env: SMTP_PASSWORD
+        from_address: ""            # defaults to username
+        to_address: ""
+      github_issue:
+        enabled: false              # opens an issue in this repo (needs issues: write)
+
+# ============================================================================
+# Target countries (V2 list — note: UAE added, Israel removed vs V1)
+# ============================================================================
+countries:
+  - United States
+  - Canada
+  - United Kingdom
+  - Netherlands
+  - Germany
+  - Switzerland
+  - France
+  - Singapore
+  - Hong Kong
+  - Japan
+  - Australia
+  - United Arab Emirates
+
+country_aliases:
+  United States: [usa, us, u.s., united states, new york, nyc, new york metro, manhattan,
+                  chicago, austin, texas, boston, massachusetts, san francisco, bay area,
+                  palo alto, seattle, denver, boulder, philadelphia, stamford, connecticut,
+                  jersey city, new jersey, miami, houston, los angeles, washington dc,
+                  kansas city, charlotte, atlanta]
+  Canada: [canada, toronto, montreal, montréal, vancouver, calgary, ontario, quebec]
+  United Kingdom: [uk, u.k., united kingdom, london, london area, greater london, england,
+                   cambridge, oxford, manchester, edinburgh, scotland, belfast]
+  Netherlands: [netherlands, the netherlands, amsterdam, amsterdam region, eindhoven,
+                rotterdam, den haag, the hague, holland]
+  Germany: [germany, frankfurt, berlin, munich, münchen, hamburg, deutschland]
+  Switzerland: [switzerland, zurich, zürich, geneva, zug, basel, lausanne]
+  France: [france, paris, sophia antipolis, lyon]
+  Singapore: [singapore, singapore hq, sg]
+  Hong Kong: [hong kong, hk, hong kong sar, kowloon, central hong kong]
+  Japan: [japan, tokyo, osaka]
+  Australia: [australia, sydney, melbourne, brisbane, perth]
+  United Arab Emirates: [uae, u.a.e., united arab emirates, dubai, abu dhabi, difc, adgm]
+
+# Regional labels firms love to use — expanded to member countries.
+region_groups:
+  emea: [United Kingdom, Netherlands, Germany, Switzerland, France, United Arab Emirates]
+  apac: [Singapore, Hong Kong, Japan, Australia]
+  asia pacific: [Singapore, Hong Kong, Japan, Australia]
+  americas: [United States, Canada]
+  north america: [United States, Canada]
+  europe: [United Kingdom, Netherlands, Germany, Switzerland, France]
+
+# ============================================================================
+# Keywords (V2 tiers)
+# ============================================================================
+keywords:
+  # Core technical terms — strongest relevance signal (+40 title / +25 desc).
+  technical_core:
+    - fpga
+    - rtl
+    - verilog
+    - systemverilog
+    - system verilog
+    - vhdl
+    - dsp
+    - digital signal processing
+    - signal processing
+    - asic
+    - digital design
+    - logic design
+    - computer architecture
+    - hardware design
+    - hardware verification
+    - hardware engineering
+    - hardware engineer
+    - digital hardware
+    - microarchitecture
+    - electrical engineering
+    - electrical engineer
+    - silicon
+    - chip design
+    - uvm
+
+  # Secondary technical terms — supporting evidence (+6 each, capped).
+  technical_secondary:
+    - pcie
+    - pci express
+    - ethernet
+    - networking hardware
+    - network hardware
+    - vivado
+    - quartus
+    - rfsoc
+    - ultrascale
+    - versal
+    - xilinx
+    - altera
+    - intel fpga
+    - amd fpga
+    - axi
+    - dma
+    - adc
+    - dac
+    - fft
+    - fir
+    - iir
+    - cordic
+    - MAC            # matched case-sensitively to avoid Apple-Mac false hits
+    - serdes
+    - hls
+    - high level synthesis
+    - chisel
+    - bluespec
+    - hdl
+    - soc
+    - timing closure
+    - static timing analysis
+    - latency optimization
+    - low latency
+    - ultra-low latency
+    - tick-to-trade
+    - market data
+    - kernel bypass
+    - solarflare
+    - exablaze
+    - 10g
+    - 25g
+    - 100g
+    - fix protocol
+    - semiconductor
+    - pcb
+    - schematic
+    - signal integrity
+    - firmware
+    - embedded
+
+  # HARD VETO — business functions. If any appears in the TITLE the job is
+  # capped at score 5 and rejected, no matter what else matches.
+  # (This is what kills 'Procurement Specialist, IT Hardware'.)
+  hard_veto:
+    - procurement
+    - buyer
+    - purchasing
+    - sourcing
+    - supply chain
+    - hr
+    - human resources
+    - recruiter
+    - recruiting
+    - recruitment
+    - talent acquisition
+    - people operations
+    - finance
+    - accounting
+    - accountant
+    - payroll
+    - tax
+    - audit
+    - treasury
+    - marketing
+    - sales
+    - business development
+    - legal
+    - counsel
+    - paralegal
+    - compliance
+    - regulatory
+    - business analyst
+    - business operations
+    - operations
+    - office
+    - workplace
+    - facilities
+    - real estate
+    - it support
+    - help desk
+    - helpdesk
+    - desktop support
+    - service desk
+    - customer support
+    - customer success
+    - customer service
+    - administrative
+    - executive assistant
+    - receptionist
+    - investor relations
+    - communications
+    - events
+    - data center technician
+
+  # SOFT EXCLUDE — adjacent-but-wrong roles. Rejected UNLESS a core technical
+  # term appears in the title ('FPGA Software Engineer Intern' survives;
+  # 'Software Engineer Intern' does not).
+  soft_exclude:
+    - software engineer
+    - software developer
+    - software development
+    - quantitative research
+    - quantitative researcher
+    - quantitative trad
+    - quant research
+    - trader
+    - trading analyst
+    - data scientist
+    - data science
+    - data engineer
+    - machine learning
+    - deep learning
+    - web developer
+    - frontend
+    - front end
+    - backend
+    - back end
+    - full stack
+    - fullstack
+    - mobile
+    - ios
+    - android
+    - devops
+    - site reliability
+    - cloud engineer
+    - security engineer
+    - cyber
+
+  # Role terms — an internship-only tracker: jobs earn role points only here.
+  role_intern_terms:
+    - intern
+    - internship
+    - summer intern
+    - summer internship
+    - spring intern
+    - fall intern
+    - winter intern
+    - off-cycle intern
+    - research intern
+    - placement
+    - industrial placement
+    - year in industry
+    - university program
+    - university programme
+    - campus
+    - student
+
+  role_coop_terms:
+    - co-op
+    - coop
+    - co op
+
+  role_graduate_terms:            # gated by settings.include_graduate_programs
+    - graduate program
+    - graduate programme
+    - graduate engineer
+    - graduate hardware
+    - graduate fpga
+    - new grad
+    - new graduate
+    - early careers
+    - early career
+    - entry level
+
+  # Seniority — heavy penalty in title (-60): structurally excludes experienced roles.
+  seniority_exclude:
+    - senior
+    - staff
+    - principal
+    - lead
+    - manager
+    - director
+    - head of
+    - vp
+    - vice president
+    - chief
+    - distinguished
+    - fellow
+    - expert
+    - architect
+
+# ============================================================================
+# Companies (~60). `ats`/`token` are OPTIONAL hints — kept only where the
+# V1 run proved them working. Everything else is auto-discovered from
+# `careers_page` and persisted to data/discovered_ats.json.
+# ============================================================================
+companies:
+  # ---- Proven working in V1 run (hints kept) ----
+  - name: Jane Street
+    careers_page: https://www.janestreet.com/join-jane-street/open-roles/
+    ats: janestreet
+    token: https://www.janestreet.com/jobs/main.json
+  - name: Jump Trading
+    careers_page: https://www.jumptrading.com/careers/
+    ats: greenhouse
+    token: jumptrading
+  - name: Jump Crypto
+    careers_page: https://jumpcrypto.com/careers/
+    ats: greenhouse
+    token: jumptrading
+    title_must_contain: crypto
+  - name: Hudson River Trading
+    careers_page: https://www.hudsonrivertrading.com/careers/
+    ats: greenhouse
+    token: wehrtyou
+  - name: DRW
+    careers_page: https://www.drw.com/work-at-drw/listings/
+    ats: greenhouse
+    token: drweng
+  - name: Flow Traders
+    careers_page: https://www.flowtraders.com/careers
+    ats: greenhouse
+    token: flowtraders
+  - name: Five Rings
+    careers_page: https://fiverings.com/careers/
+    ats: greenhouse
+    token: fiveringsllc
+  - name: Tower Research Capital
+    careers_page: https://tower-research.com/careers/
+    ats: greenhouse
+    token: towerresearchcapital
+  - name: Akuna Capital
+    careers_page: https://akunacapital.com/careers
+    ats: greenhouse
+    token: akunacapital
+  - name: Old Mission Capital
+    careers_page: https://www.oldmissioncapital.com/careers/
+    ats: greenhouse
+    token: oldmissioncapital
+  - name: TransMarket Group
+    careers_page: https://www.transmarketgroup.com/careers/
+    ats: greenhouse
+    token: transmarketgroup
+  - name: Wintermute
+    careers_page: https://www.wintermute.com/careers
+    ats: lever
+    token: wintermute-trading
+  - name: XTX Markets
+    careers_page: https://www.xtxmarkets.com/careers/
+    ats: greenhouse
+    token: xtxmarketstechnologies
+
+  # ---- Failed in V1 (wrong token / moved / JS) → pure auto-discovery ----
+  - name: Citadel
+    careers_page: https://www.citadel.com/careers/open-opportunities/
+  - name: Citadel Securities
+    careers_page: https://www.citadelsecurities.com/careers/open-opportunities/
+  - name: Two Sigma
+    careers_page: https://careers.twosigma.com/careers/SearchJobs
+  - name: Optiver
+    careers_page: https://optiver.com/working-at-optiver/career-opportunities/
+    # robots.txt disallows scraping — the tracker respects this and lists
+    # Optiver under "Check These Manually" in the README.
+  - name: IMC Trading
+    careers_page: https://careers.imc.com/us/en/search-results
+  - name: G-Research
+    careers_page: https://www.gresearch.com/vacancies/
+  - name: SIG (Susquehanna)
+    careers_page: https://careers.sig.com/search-results
+  - name: Qube Research & Technologies
+    careers_page: https://www.qube-rt.com/careers
+  - name: Virtu Financial
+    careers_page: https://www.virtu.com/careers/
+  - name: Squarepoint Capital
+    careers_page: https://www.squarepoint-capital.com/careers
+  - name: Quantlab
+    careers_page: https://www.quantlab.com/careers/
+  - name: Belvedere Trading
+    careers_page: https://www.belvederetrading.com/careers
+  - name: Maven Securities
+    careers_page: https://www.mavensecurities.com/careers/
+  - name: Radix Trading
+    careers_page: https://radixtrading.co/careers/
+  - name: Chicago Trading Company
+    careers_page: https://www.chicagotrading.com/careers/
+  - name: Headlands Technologies
+    careers_page: https://www.headlandstech.com/careers/
+  - name: Balyasny Asset Management
+    careers_page: https://bamfunds.com/careers
+
+  # ---- New in V2: US prop / quant ----
+  - name: Millennium
+    careers_page: https://www.mlp.com/careers/
+  - name: WorldQuant
+    careers_page: https://www.worldquant.com/career-listings/
+  - name: D. E. Shaw
+    careers_page: https://www.deshaw.com/careers
+  - name: Point72 / Cubist
+    careers_page: https://careers.point72.com/
+  - name: Schonfeld
+    careers_page: https://www.schonfeld.com/careers/
+  - name: ExodusPoint
+    careers_page: https://www.exoduspoint.com/careers
+  - name: Verition Fund Management
+    careers_page: https://www.verition.com/careers
+  - name: Walleye Capital
+    careers_page: https://www.walleyecapital.com/careers/
+  - name: GTS
+    careers_page: https://gtsx.com/careers/
+  - name: PEAK6
+    careers_page: https://peak6.com/careers/
+  - name: XR Trading
+    careers_page: https://www.xrtrading.com/careers
+  - name: Geneva Trading
+    careers_page: https://www.genevatrading.com/careers/
+  - name: DV Trading
+    careers_page: https://dvtrading.co/careers/
+  - name: Gelber Group
+    careers_page: https://www.gelbergroup.com/careers/
+  - name: 3Red Partners
+    careers_page: https://3redpartners.com/careers/
+  - name: Valkyrie Trading
+    careers_page: https://www.valkyrietrading.com/careers/
+  - name: Eagle Seven
+    careers_page: https://www.eagleseven.com/careers/
+  - name: Tradebot Systems
+    careers_page: https://www.tradebot.com/careers/
+
+  # ---- New in V2: Europe / UK / NL / CH ----
+  - name: Mako Group
+    careers_page: https://www.mako.com/careers/
+  - name: Da Vinci Derivatives
+    careers_page: https://www.davinciderivatives.com/careers
+  - name: All Options
+    careers_page: https://alloptions.nl/careers/
+  - name: Webb Traders
+    careers_page: https://www.webbtraders.com/careers/
+  - name: Quadrature Capital
+    careers_page: https://quadrature.ai/careers/
+  - name: B2C2
+    careers_page: https://www.b2c2.com/careers
+  - name: GSR
+    careers_page: https://www.gsr.io/careers/
+  - name: Portofino Technologies
+    careers_page: https://www.portofino.tech/careers/
+
+  # ---- New in V2: APAC ----
+  - name: Grasshopper
+    careers_page: https://grasshopperasia.com/careers/
+  - name: Dynamic Technology Lab
+    careers_page: https://www.dytechlab.com/careers/
+  - name: AlphaGrep
+    careers_page: https://www.alpha-grep.com/careers/
+  - name: Eclipse Trading
+    careers_page: https://www.eclipsetrading.com/careers/
+  - name: VivCourt
+    careers_page: https://www.vivcourt.com.au/careers/
+  - name: Auros
+    careers_page: https://www.auros.global/careers
+  - name: Aquatic Capital Management
+    careers_page: https://www.aquaticcapital.com/careers

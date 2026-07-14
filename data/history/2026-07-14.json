@@ -1,13 +1,13 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14 02:58 UTC",
+  "generated_at": "2026-07-14 03:39 UTC",
   "stats": {
     "active_total": 8,
     "by_company": {
       "IMC Trading": 4,
       "Jump Trading": 2,
-      "DRW": 1,
-      "Akuna Capital": 1
+      "Akuna Capital": 1,
+      "DRW": 1
     },
     "by_category": {
       "FPGA": 5,
@@ -22,7 +22,7 @@
       "Netherlands": 2,
       "United Kingdom": 1
     },
-    "added": 8,
+    "added": 0,
     "updated": 0,
     "desc_updated": 0,
     "closed_api": 0,

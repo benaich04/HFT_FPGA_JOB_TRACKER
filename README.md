@@ -2,7 +2,7 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-07-14 02:58 UTC
+**Last Updated:** 2026-07-14 03:39 UTC
 
 **Active positions:** 8 &nbsp;·&nbsp; **New today:** 8 &nbsp;·&nbsp; **New this week:** 8 &nbsp;·&nbsp; **Source coverage:** 71% (45/63 companies)
 
@@ -167,15 +167,15 @@ _None currently._
 - **Companies failed:** 18
 - **Coverage:** 71%
 - **Raw postings scanned:** 1752
-- **This run:** +8 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 716s
-- **Last Updated:** 2026-07-14 02:58 UTC
+- **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
+- **Runtime:** 550s
+- **Last Updated:** 2026-07-14 03:39 UTC
 
 <details><summary><b>Per-company source status (18 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
-| All Options | `CONNECTION_ERROR` | HTTPSConnectionPool(host='alloptions.nl', port=443): Max retries exceeded with url: /careers/ (Caused by NameResolutionError("HTTPSConnection(host='alloptions.n |  |
+| All Options | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | AlphaGrep | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | Citadel | `ROBOTS_BLOCKED` | https://www.citadel.com/careers/open-opportunities/ |  |
 | Citadel Securities | `ROBOTS_BLOCKED` | https://www.citadelsecurities.com/careers/open-opportunities/ |  |

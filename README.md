@@ -2,9 +2,9 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-07-14 03:39 UTC
+**Last Updated:** 2026-07-14 13:09 UTC
 
-**Active positions:** 8 &nbsp;·&nbsp; **New today:** 8 &nbsp;·&nbsp; **New this week:** 8 &nbsp;·&nbsp; **Source coverage:** 71% (45/63 companies)
+**Active positions:** 8 &nbsp;·&nbsp; **New today:** 8 &nbsp;·&nbsp; **New this week:** 8 &nbsp;·&nbsp; **Source coverage:** 70% (44/63 companies)
 
 ## 🔥 New Today
 
@@ -163,15 +163,15 @@ _None currently._
 ## 📊 Statistics
 
 - **Companies scanned:** 63
-- **Companies succeeded:** 45
-- **Companies failed:** 18
-- **Coverage:** 71%
-- **Raw postings scanned:** 1752
+- **Companies succeeded:** 44
+- **Companies failed:** 19
+- **Coverage:** 70%
+- **Raw postings scanned:** 1734
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 550s
-- **Last Updated:** 2026-07-14 03:39 UTC
+- **Runtime:** 545s
+- **Last Updated:** 2026-07-14 13:09 UTC
 
-<details><summary><b>Per-company source status (18 not healthy)</b></summary>
+<details><summary><b>Per-company source status (19 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
@@ -187,6 +187,7 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
+| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | SIG (Susquehanna) | `JS_REQUIRED` | icims platform (browser-only ATS) |  |
 | Tradebot Systems | `JS_REQUIRED` | page appears JavaScript-rendered |  |

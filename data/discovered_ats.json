@@ -1,0 +1,164 @@
+{
+  "3Red Partners": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:06 UTC",
+    "evidence": "guessed",
+    "token": "3redpartners"
+  },
+  "Aquatic Capital Management": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:10 UTC",
+    "evidence": "guessed",
+    "token": "aquaticcapitalmanagement"
+  },
+  "Auros": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:10 UTC",
+    "evidence": "discovered",
+    "token": "aurosglobal"
+  },
+  "B2C2": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:08 UTC",
+    "evidence": "guessed",
+    "token": "b2c2"
+  },
+  "Belvedere Trading": {
+    "ats": "lever",
+    "discovered_at": "2026-07-14 03:02 UTC",
+    "evidence": "discovered",
+    "token": "belvederetrading"
+  },
+  "Chicago Trading Company": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:03 UTC",
+    "evidence": "guessed",
+    "token": "chicagotrading"
+  },
+  "DV Trading": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:06 UTC",
+    "evidence": "guessed",
+    "token": "dvtrading"
+  },
+  "Da Vinci Derivatives": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:07 UTC",
+    "evidence": "guessed",
+    "token": "davinciderivatives"
+  },
+  "Eagle Seven": {
+    "ats": "ashby",
+    "discovered_at": "2026-07-14 03:06 UTC",
+    "evidence": "guessed",
+    "token": "eagle"
+  },
+  "Eclipse Trading": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:10 UTC",
+    "evidence": "guessed",
+    "token": "eclipsetrading"
+  },
+  "ExodusPoint": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:04 UTC",
+    "evidence": "guessed",
+    "token": "exoduspoint"
+  },
+  "Gelber Group": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:06 UTC",
+    "evidence": "guessed",
+    "token": "gelbergroup"
+  },
+  "Geneva Trading": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:05 UTC",
+    "evidence": "discovered",
+    "token": "genevatrading"
+  },
+  "Headlands Technologies": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:03 UTC",
+    "evidence": "discovered",
+    "token": "headlandstechnologiesllc"
+  },
+  "IMC Trading": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:00 UTC",
+    "evidence": "guessed",
+    "token": "imc"
+  },
+  "Mako Group": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:07 UTC",
+    "evidence": "guessed",
+    "token": "mako"
+  },
+  "Maven Securities": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:02 UTC",
+    "evidence": "discovered",
+    "token": "mavensecuritiesholdingltd"
+  },
+  "Optiver": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:00 UTC",
+    "evidence": "guessed",
+    "token": "optiver"
+  },
+  "Point72 / Cubist": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:04 UTC",
+    "evidence": "discovered",
+    "token": "point72"
+  },
+  "Quadrature Capital": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:08 UTC",
+    "evidence": "discovered",
+    "token": "quadraturecapital"
+  },
+  "Schonfeld": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:04 UTC",
+    "evidence": "discovered",
+    "token": "schonfeld"
+  },
+  "Squarepoint Capital": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:01 UTC",
+    "evidence": "guessed",
+    "token": "squarepointcapital"
+  },
+  "Valkyrie Trading": {
+    "ats": "lever",
+    "discovered_at": "2026-07-14 03:06 UTC",
+    "evidence": "guessed",
+    "token": "valkyrietrading"
+  },
+  "Virtu Financial": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:01 UTC",
+    "evidence": "discovered",
+    "token": "virtu"
+  },
+  "VivCourt": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:10 UTC",
+    "evidence": "guessed",
+    "token": "vivcourt"
+  },
+  "Walleye Capital": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:05 UTC",
+    "evidence": "guessed",
+    "token": "walleyecapital"
+  },
+  "WorldQuant": {
+    "ats": "greenhouse",
+    "discovered_at": "2026-07-14 03:03 UTC",
+    "evidence": "guessed",
+    "token": "worldquant"
+  }
+}

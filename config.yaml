@@ -11,7 +11,7 @@ settings:
   request_delay_seconds: 2.0        # politeness between requests (env: TRACKER_REQUEST_DELAY)
   request_timeout_seconds: 25
   respect_robots_txt: true          # never bypassed; blocked firms are listed in README
-  user_agent: "HFT-FPGA-Job-Tracker/2.0 (github.com/YOUR_USERNAME/HFT_FPGA_JOB_TRACKER; personal internship search)"
+  user_agent: "Mozilla/5.0 (compatible; HFT-FPGA-Job-Tracker/2.0; +https://github.com/benaich04/HFT_FPGA_JOB_TRACKER)"
   fetch_descriptions: true
   max_description_length: 300
 

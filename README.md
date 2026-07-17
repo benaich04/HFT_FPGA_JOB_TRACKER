@@ -2,13 +2,21 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-07-16 13:21 UTC
+**Last Updated:** 2026-07-17 01:48 UTC
 
-**Active positions:** 8 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 8 &nbsp;·&nbsp; **Source coverage:** 73% (46/63 companies)
+**Active positions:** 9 &nbsp;·&nbsp; **New today:** 1 &nbsp;·&nbsp; **New this week:** 9 &nbsp;·&nbsp; **Source coverage:** 71% (45/63 companies)
 
 ## 🔥 New Today
 
-_No new positions in the last 24 hours._
+**Role:** FPGA Intern &nbsp;·&nbsp; **Confidence:** 95%
+**Company:** DRW
+**Location:** London (United Kingdom)
+**Type:** Internship &nbsp;·&nbsp; **Category:** FPGA
+**Found:** 2026-07-17 01:48 UTC
+**About:** <p></p> <p><span data-contrast="none">Our formula for success is to hire exceptional people, encourage their ideas and reward their results.</span><span data-ccp-props="{"201341983":0,"335559739":0,"335559740":240}"> </span></p> <p><span data-contrast="none"><span data-ccp-parastyle="No Spacing">As…
+**Link:** [Apply here](https://job-boards.greenhouse.io/drweng/jobs/8070392)
+
+---
 
 ## 🆕 New This Week
 
@@ -25,11 +33,12 @@ _No new positions in the last 24 hours._
 
 ## 🗂 Positions by Category
 
-### FPGA (5)
+### FPGA (6)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
+| 95% | DRW | FPGA Intern 🆕 | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
 | 95% | IMC Trading | 2027 - FPGA Intern - IIT Bombay | Amsterdam, Netherlands; Mumbai, India; Amsterdam; Mumbai | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) |
 | 95% | IMC Trading | 2027 - FPGA Intern - IIT Madras | Amsterdam, Netherlands; Mumbai, India; Amsterdam; Mumbai | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4918252101) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
@@ -69,12 +78,13 @@ _None currently._
 
 ## 🎓 Positions by Type
 
-### Internships (7)
+### Internships (8)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 95% | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Internship | Hardware | 2026-07-14 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
+| 95% | DRW | FPGA Intern 🆕 | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
 | 95% | IMC Trading | 2027 - FPGA Intern - IIT Bombay | Amsterdam, Netherlands; Mumbai, India; Amsterdam; Mumbai | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4860306101) |
 | 95% | IMC Trading | 2027 - FPGA Intern - IIT Madras | Amsterdam, Netherlands; Mumbai, India; Amsterdam; Mumbai | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4918252101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
@@ -94,15 +104,15 @@ _None currently._
 ## 📊 Statistics
 
 - **Companies scanned:** 63
-- **Companies succeeded:** 46
-- **Companies failed:** 17
-- **Coverage:** 73%
-- **Raw postings scanned:** 1750
-- **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 550s
-- **Last Updated:** 2026-07-16 13:21 UTC
+- **Companies succeeded:** 45
+- **Companies failed:** 18
+- **Coverage:** 71%
+- **Raw postings scanned:** 1736
+- **This run:** +1 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
+- **Runtime:** 515s
+- **Last Updated:** 2026-07-17 01:48 UTC
 
-<details><summary><b>Per-company source status (17 not healthy)</b></summary>
+<details><summary><b>Per-company source status (18 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
@@ -118,6 +128,7 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
+| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | Tradebot Systems | `JS_REQUIRED` | page appears JavaScript-rendered |  |
 | Verition Fund Management | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |

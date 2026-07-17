@@ -1,34 +1,34 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17 01:48 UTC",
+  "generated_at": "2026-07-17 13:05 UTC",
   "stats": {
-    "active_total": 9,
+    "active_total": 8,
     "by_company": {
-      "IMC Trading": 4,
+      "IMC Trading": 3,
       "DRW": 2,
       "Jump Trading": 2,
       "Akuna Capital": 1
     },
     "by_category": {
-      "FPGA": 6,
+      "FPGA": 5,
       "Hardware": 3
     },
     "by_type": {
-      "Internship": 8,
+      "Internship": 7,
       "Graduate Program": 1
     },
     "by_country": {
       "United States": 5,
-      "Netherlands": 2,
-      "United Kingdom": 2
+      "United Kingdom": 2,
+      "Netherlands": 1
     },
-    "added": 1,
+    "added": 0,
     "updated": 0,
     "desc_updated": 0,
-    "closed_api": 0,
+    "closed_api": 1,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1736
+    "raw_postings": 1735
   },
   "active_jobs": [
     {
@@ -77,18 +77,6 @@
       "category": "FPGA",
       "score": 95,
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860306101",
-      "first_seen": "2026-07-14 02:58 UTC"
-    },
-    {
-      "id": "imc-trading-greenhouse-4918252101",
-      "company": "IMC Trading",
-      "title": "2027 - FPGA Intern - IIT Madras",
-      "location": "Amsterdam, Netherlands; Mumbai, India; Amsterdam; Mumbai",
-      "country": "Netherlands",
-      "type": "Internship",
-      "category": "FPGA",
-      "score": 95,
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4918252101",
       "first_seen": "2026-07-14 02:58 UTC"
     },
     {

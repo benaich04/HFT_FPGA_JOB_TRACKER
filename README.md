@@ -2,7 +2,7 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-07-19 01:46 UTC
+**Last Updated:** 2026-07-19 12:55 UTC
 
 **Active positions:** 8 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 8 &nbsp;·&nbsp; **Source coverage:** 73% (46/63 companies)
 
@@ -97,17 +97,17 @@ _None currently._
 - **Companies succeeded:** 46
 - **Companies failed:** 17
 - **Coverage:** 73%
-- **Raw postings scanned:** 1752
+- **Raw postings scanned:** 1751
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 524s
-- **Last Updated:** 2026-07-19 01:46 UTC
+- **Runtime:** 558s
+- **Last Updated:** 2026-07-19 12:55 UTC
 
 <details><summary><b>Per-company source status (17 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
 | All Options | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| AlphaGrep | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
+| AlphaGrep | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | Citadel | `ROBOTS_BLOCKED` | https://www.citadel.com/careers/open-opportunities/ |  |
 | Citadel Securities | `ROBOTS_BLOCKED` | https://www.citadelsecurities.com/careers/open-opportunities/ |  |
 | D. E. Shaw | `ROBOTS_BLOCKED` | https://www.deshaw.com/careers |  |
@@ -122,7 +122,7 @@ _None currently._
 | Tradebot Systems | `JS_REQUIRED` | page appears JavaScript-rendered |  |
 | Verition Fund Management | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
-| XR Trading | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
+| XR Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 
 </details>
 

@@ -2,7 +2,7 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-07-22 13:22 UTC
+**Last Updated:** 2026-07-23 01:52 UTC
 
 **Active positions:** 8 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 73% (46/63 companies)
 
@@ -90,10 +90,10 @@ _None currently._
 - **Companies succeeded:** 46
 - **Companies failed:** 17
 - **Coverage:** 73%
-- **Raw postings scanned:** 1753
+- **Raw postings scanned:** 1755
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 535s
-- **Last Updated:** 2026-07-22 13:22 UTC
+- **Runtime:** 536s
+- **Last Updated:** 2026-07-23 01:52 UTC
 
 <details><summary><b>Per-company source status (17 not healthy)</b></summary>
 

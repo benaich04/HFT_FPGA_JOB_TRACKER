@@ -1,0 +1,131 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24 01:48 UTC",
+  "stats": {
+    "active_total": 8,
+    "by_company": {
+      "IMC Trading": 3,
+      "DRW": 2,
+      "Jump Trading": 2,
+      "Akuna Capital": 1
+    },
+    "by_category": {
+      "FPGA": 5,
+      "Hardware": 3
+    },
+    "by_type": {
+      "Internship": 7,
+      "Graduate Program": 1
+    },
+    "by_country": {
+      "United States": 5,
+      "United Kingdom": 2,
+      "Netherlands": 1
+    },
+    "added": 0,
+    "updated": 0,
+    "desc_updated": 0,
+    "closed_api": 0,
+    "closed_stale": 0,
+    "reopened": 0,
+    "raw_postings": 1750
+  },
+  "active_jobs": [
+    {
+      "id": "akuna-capital-greenhouse-8018880",
+      "company": "Akuna Capital",
+      "title": "Hardware Engineer Intern, Summer 2027",
+      "location": "Chicago, IL ",
+      "country": "United States",
+      "type": "Internship",
+      "category": "Hardware",
+      "score": 95,
+      "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
+      "first_seen": "2026-07-14 02:58 UTC"
+    },
+    {
+      "id": "drw-greenhouse-8038923",
+      "company": "DRW",
+      "title": "FPGA Intern",
+      "location": "Chicago",
+      "country": "United States",
+      "type": "Internship",
+      "category": "FPGA",
+      "score": 95,
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
+      "first_seen": "2026-07-14 02:58 UTC"
+    },
+    {
+      "id": "drw-greenhouse-8070392",
+      "company": "DRW",
+      "title": "FPGA Intern",
+      "location": "London",
+      "country": "United Kingdom",
+      "type": "Internship",
+      "category": "FPGA",
+      "score": 95,
+      "url": "https://job-boards.greenhouse.io/drweng/jobs/8070392",
+      "first_seen": "2026-07-17 01:48 UTC"
+    },
+    {
+      "id": "imc-trading-greenhouse-4860306101",
+      "company": "IMC Trading",
+      "title": "2027 - FPGA Intern - IIT Bombay",
+      "location": "Amsterdam, Netherlands; Mumbai, India; Amsterdam; Mumbai",
+      "country": "Netherlands",
+      "type": "Internship",
+      "category": "FPGA",
+      "score": 95,
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4860306101",
+      "first_seen": "2026-07-14 02:58 UTC"
+    },
+    {
+      "id": "imc-trading-greenhouse-4823805101",
+      "company": "IMC Trading",
+      "title": "Graduate Hardware Engineer",
+      "location": "Chicago, United States",
+      "country": "United States",
+      "type": "Graduate Program",
+      "category": "Hardware",
+      "score": 95,
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823805101",
+      "first_seen": "2026-07-14 02:58 UTC"
+    },
+    {
+      "id": "imc-trading-greenhouse-4823945101",
+      "company": "IMC Trading",
+      "title": "Hardware Engineer Intern - Summer 2027",
+      "location": "Chicago, United States",
+      "country": "United States",
+      "type": "Internship",
+      "category": "Hardware",
+      "score": 95,
+      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
+      "first_seen": "2026-07-14 02:58 UTC"
+    },
+    {
+      "id": "jump-trading-greenhouse-7974391",
+      "company": "Jump Trading",
+      "title": "Campus FPGA Engineer (Intern)",
+      "location": "London",
+      "country": "United Kingdom",
+      "type": "Internship",
+      "category": "FPGA",
+      "score": 95,
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
+      "first_seen": "2026-07-14 02:58 UTC"
+    },
+    {
+      "id": "jump-trading-greenhouse-8003013",
+      "company": "Jump Trading",
+      "title": "Campus FPGA Engineer (Intern)",
+      "location": "Chicago",
+      "country": "United States",
+      "type": "Internship",
+      "category": "FPGA",
+      "score": 95,
+      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
+      "first_seen": "2026-07-14 02:58 UTC"
+    }
+  ]
+}

@@ -2,35 +2,20 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-08-02 01:50 UTC
+**Last Updated:** 2026-08-02 12:59 UTC
 
-**Active positions:** 9 &nbsp;·&nbsp; **New today:** 2 &nbsp;·&nbsp; **New this week:** 2 &nbsp;·&nbsp; **Source coverage:** 73% (46/63 companies)
+**Active positions:** 9 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 2 &nbsp;·&nbsp; **Source coverage:** 73% (46/63 companies)
 
 ## 🔥 New Today
 
-**Role:** Hardware Engineer Intern &nbsp;·&nbsp; **Confidence:** 95%
-**Company:** IMC Trading
-**Location:** Amsterdam, Netherlands (Netherlands)
-**Type:** Internship &nbsp;·&nbsp; **Category:** FPGA
-**Found:** 2026-08-01 01:54 UTC
-**About:** <p>Our internship programme in Amsterdam is your chance to experience life as an engineer at IMC. As a Hardware Engineer Intern, it’s about much more than just writing code: you’ll gain insight into IMC’s field-programmable gate array (FPGA) development process, get to know IMC’s unique business…
-**Link:** [Apply here](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101)
-
----
-
-**Role:** 2027 Internship- Hardware Engineer (FPGA) &nbsp;·&nbsp; **Confidence:** 95%
-**Company:** Virtu Financial
-**Location:** Austin, TX; Austin, TX; New York (United States)
-**Type:** Internship &nbsp;·&nbsp; **Category:** FPGA
-**Found:** 2026-08-01 01:54 UTC
-**About:** <p> </p> <p>Virtu is an industry-leading financial technology firm that operates both proprietary trading and client-facing businesses in the global financial marketplace. Our cutting edge, proprietary technology is core to everything we do. We trade in over 35 countries, across 235 financial…
-**Link:** [Apply here](https://job-boards.greenhouse.io/virtu/jobs/8657286002)
-
----
+_No new positions in the last 24 hours._
 
 ## 🆕 New This Week
 
-_All of this week's finds are listed under New Today._
+| Score | Company | Position | Location | Type | Category | Found | Link |
+|------:|---------|----------|----------|------|----------|-------|------|
+| 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
+| 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 
 ## 🗂 Positions by Category
 
@@ -40,10 +25,10 @@ _All of this week's finds are listed under New Today._
 |------:|---------|----------|----------|------|----------|-------|------|
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
-| 95% | IMC Trading | Hardware Engineer Intern 🆕 | Amsterdam, Netherlands | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
+| 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
-| 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) 🆕 | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
+| 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 
 ### DSP (0)
 
@@ -86,11 +71,11 @@ _None currently._
 | 95% | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Internship | Hardware | 2026-07-14 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
-| 95% | IMC Trading | Hardware Engineer Intern 🆕 | Amsterdam, Netherlands | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
+| 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
-| 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) 🆕 | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
+| 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 
 ### Co-op (0)
 
@@ -108,10 +93,10 @@ _None currently._
 - **Companies succeeded:** 46
 - **Companies failed:** 17
 - **Coverage:** 73%
-- **Raw postings scanned:** 1764
+- **Raw postings scanned:** 1762
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 511s
-- **Last Updated:** 2026-08-02 01:50 UTC
+- **Runtime:** 520s
+- **Last Updated:** 2026-08-02 12:59 UTC
 
 <details><summary><b>Per-company source status (17 not healthy)</b></summary>
 

@@ -2,9 +2,9 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-08-08 00:54 UTC
+**Last Updated:** 2026-08-08 12:26 UTC
 
-**Active positions:** 9 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 2 &nbsp;·&nbsp; **Source coverage:** 73% (46/63 companies)
+**Active positions:** 9 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 0 &nbsp;·&nbsp; **Source coverage:** 71% (45/63 companies)
 
 ## 🔥 New Today
 
@@ -12,10 +12,7 @@ _No new positions in the last 24 hours._
 
 ## 🆕 New This Week
 
-| Score | Company | Position | Location | Type | Category | Found | Link |
-|------:|---------|----------|----------|------|----------|-------|------|
-| 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
-| 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
+_No new positions in the last 7 days._
 
 ## 🗂 Positions by Category
 
@@ -90,15 +87,15 @@ _None currently._
 ## 📊 Statistics
 
 - **Companies scanned:** 63
-- **Companies succeeded:** 46
-- **Companies failed:** 17
-- **Coverage:** 73%
-- **Raw postings scanned:** 1785
+- **Companies succeeded:** 45
+- **Companies failed:** 18
+- **Coverage:** 71%
+- **Raw postings scanned:** 1774
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 543s
-- **Last Updated:** 2026-08-08 00:54 UTC
+- **Runtime:** 540s
+- **Last Updated:** 2026-08-08 12:26 UTC
 
-<details><summary><b>Per-company source status (17 not healthy)</b></summary>
+<details><summary><b>Per-company source status (18 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
@@ -114,6 +111,7 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
+| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | SIG (Susquehanna) | `JS_REQUIRED` | icims platform (browser-only ATS) |  |
 | Verition Fund Management | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |

@@ -2,7 +2,7 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-08-09 00:57 UTC
+**Last Updated:** 2026-08-09 12:29 UTC
 
 **Active positions:** 9 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 0 &nbsp;·&nbsp; **Source coverage:** 71% (45/63 companies)
 
@@ -92,8 +92,8 @@ _None currently._
 - **Coverage:** 71%
 - **Raw postings scanned:** 1774
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 515s
-- **Last Updated:** 2026-08-09 00:57 UTC
+- **Runtime:** 750s
+- **Last Updated:** 2026-08-09 12:29 UTC
 
 <details><summary><b>Per-company source status (18 not healthy)</b></summary>
 
@@ -111,7 +111,7 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| Qube Research & Technologies | `JS_REQUIRED` | page appears JavaScript-rendered |  |
+| Qube Research & Technologies | `TIMEOUT` | https://www.qube-rt.com/careers |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | SIG (Susquehanna) | `JS_REQUIRED` | icims platform (browser-only ATS) |  |
 | Verition Fund Management | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
@@ -131,7 +131,6 @@ These firms block automated access (robots.txt / bot protection) or require Java
 - **GSR** — `ROBOTS_BLOCKED` → [careers page](https://www.gsr.io/careers/)
 - **GTS** — `ROBOTS_BLOCKED` → [careers page](https://gtsx.com/careers/)
 - **Millennium** — `ROBOTS_BLOCKED` → [careers page](https://www.mlp.com/careers/)
-- **Qube Research & Technologies** — `JS_REQUIRED` → [careers page](https://www.qube-rt.com/careers)
 - **SIG (Susquehanna)** — `JS_REQUIRED` → [careers page](https://careers.sig.com/search-results)
 - **Webb Traders** — `JS_REQUIRED` → [careers page](https://www.webbtraders.com/careers/)
 

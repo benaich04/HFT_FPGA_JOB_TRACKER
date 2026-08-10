@@ -2,7 +2,7 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-08-10 00:59 UTC
+**Last Updated:** 2026-08-10 12:44 UTC
 
 **Active positions:** 9 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 0 &nbsp;·&nbsp; **Source coverage:** 71% (45/63 companies)
 
@@ -90,17 +90,17 @@ _None currently._
 - **Companies succeeded:** 45
 - **Companies failed:** 18
 - **Coverage:** 71%
-- **Raw postings scanned:** 1776
+- **Raw postings scanned:** 1777
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 786s
-- **Last Updated:** 2026-08-10 00:59 UTC
+- **Runtime:** 780s
+- **Last Updated:** 2026-08-10 12:44 UTC
 
 <details><summary><b>Per-company source status (18 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
 | All Options | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| AlphaGrep | `PAGE_NOT_FOUND` | HTTP 404 |  |
+| AlphaGrep | `TIMEOUT` | https://www.alpha-grep.com/careers/ |  |
 | Citadel | `ROBOTS_BLOCKED` | https://www.citadel.com/careers/open-opportunities/ |  |
 | Citadel Securities | `ROBOTS_BLOCKED` | https://www.citadelsecurities.com/careers/open-opportunities/ |  |
 | D. E. Shaw | `ROBOTS_BLOCKED` | https://www.deshaw.com/careers |  |
@@ -111,12 +111,12 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| Qube Research & Technologies | `TIMEOUT` | https://www.qube-rt.com/careers |  |
+| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | SIG (Susquehanna) | `JS_REQUIRED` | icims platform (browser-only ATS) |  |
 | Verition Fund Management | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
-| XR Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
+| XR Trading | `FORBIDDEN` | HTTP 403 |  |
 
 </details>
 
@@ -133,6 +133,7 @@ These firms block automated access (robots.txt / bot protection) or require Java
 - **Millennium** — `ROBOTS_BLOCKED` → [careers page](https://www.mlp.com/careers/)
 - **SIG (Susquehanna)** — `JS_REQUIRED` → [careers page](https://careers.sig.com/search-results)
 - **Webb Traders** — `JS_REQUIRED` → [careers page](https://www.webbtraders.com/careers/)
+- **XR Trading** — `FORBIDDEN` → [careers page](https://www.xrtrading.com/careers)
 
 ## About
 

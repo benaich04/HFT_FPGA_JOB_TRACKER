@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "2026-08-20 00:39 UTC",
+  "generated_at": "2026-08-20 12:26 UTC",
   "stats": {
     "active_total": 10,
     "by_company": {
@@ -8,8 +8,8 @@
       "DRW": 2,
       "Jump Trading": 2,
       "Akuna Capital": 1,
-      "Virtu Financial": 1,
-      "SIG (Susquehanna)": 1
+      "SIG (Susquehanna)": 1,
+      "Virtu Financial": 1
     },
     "by_category": {
       "Hardware": 5,
@@ -20,17 +20,17 @@
       "Graduate Program": 1
     },
     "by_country": {
-      "United States": 7,
-      "United Kingdom": 2,
+      "United States": 6,
+      "United Kingdom": 3,
       "Netherlands": 1
     },
-    "added": 1,
-    "updated": 0,
-    "desc_updated": 1,
+    "added": 0,
+    "updated": 1,
+    "desc_updated": 0,
     "closed_api": 0,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1812
+    "raw_postings": 1817
   },
   "active_jobs": [
     {
@@ -133,8 +133,8 @@
       "id": "sig-susquehanna-https-careers-sig-com-jobs-11270",
       "company": "SIG (Susquehanna)",
       "title": "Hardware Engineer University Co - Op Placement 2027",
-      "location": "Quantitative Strategy Developer - New Grad Location Bala Cynwyd (Philadelphia Area)…",
-      "country": "United States",
+      "location": "OTC Middle Office Lead Location London, United Kingdom Job Category Operations City…",
+      "country": "United Kingdom",
       "type": "Internship",
       "category": "Hardware",
       "score": 95,

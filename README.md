@@ -2,27 +2,33 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-08-19 12:24 UTC
+**Last Updated:** 2026-08-20 00:39 UTC
 
-**Active positions:** 9 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 0 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
+**Active positions:** 10 &nbsp;·&nbsp; **New today:** 1 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
 
 ## 🔥 New Today
 
-_No new positions in the last 24 hours._
+**Role:** Hardware Engineer University Co - Op Placement 2027 &nbsp;·&nbsp; **Confidence:** 95%
+**Company:** SIG (Susquehanna)
+**Location:** Quantitative Strategy Developer - New Grad Location Bala Cynwyd (Philadelphia Area)… (United States)
+**Type:** Internship &nbsp;·&nbsp; **Category:** Hardware
+**Found:** 2026-08-20 00:39 UTC
+**Link:** [Apply here](https://careers.sig.com/jobs/11270?lang=en-us)
+
+---
 
 ## 🆕 New This Week
 
-_No new positions in the last 7 days._
+_All of this week's finds are listed under New Today._
 
 ## 🗂 Positions by Category
 
-### FPGA (6)
+### FPGA (5)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
-| 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
 | 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
@@ -51,27 +57,30 @@ _None currently._
 
 _None currently._
 
-### Hardware (3)
+### Hardware (5)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 95% | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Internship | Hardware | 2026-07-14 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | 95% | IMC Trading | Graduate Hardware Engineer | Chicago, United States | Graduate Program | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) |
+| 95% | IMC Trading | Hardware Engineer Intern ✏️ | Amsterdam, Netherlands | Internship | Hardware | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
+| 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 🆕 | Quantitative Strategy Developer - New Grad Location Bala Cynwyd (Philadelphia Area)… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
 
 ## 🎓 Positions by Type
 
-### Internships (8)
+### Internships (9)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 95% | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Internship | Hardware | 2026-07-14 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
-| 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
+| 95% | IMC Trading | Hardware Engineer Intern ✏️ | Amsterdam, Netherlands | Internship | Hardware | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
+| 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 🆕 | Quantitative Strategy Developer - New Grad Location Bala Cynwyd (Philadelphia Area)… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
 | 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 
 ### Co-op (0)
@@ -90,10 +99,10 @@ _None currently._
 - **Companies succeeded:** 47
 - **Companies failed:** 16
 - **Coverage:** 75%
-- **Raw postings scanned:** 1809
-- **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 549s
-- **Last Updated:** 2026-08-19 12:24 UTC
+- **Raw postings scanned:** 1812
+- **This run:** +1 new · 1 descriptions updated · 0 fields updated · 0 closed · 0 reopened
+- **Runtime:** 568s
+- **Last Updated:** 2026-08-20 00:39 UTC
 
 <details><summary><b>Per-company source status (16 not healthy)</b></summary>
 

@@ -2,7 +2,7 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-08-21 00:42 UTC
+**Last Updated:** 2026-08-22 00:40 UTC
 
 **Active positions:** 10 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
 
@@ -14,7 +14,7 @@ _No new positions in the last 24 hours._
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
-| 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 ✏️ | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
+| 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
 
 ## 🗂 Positions by Category
 
@@ -60,7 +60,7 @@ _None currently._
 | 95% | IMC Trading | Graduate Hardware Engineer | Chicago, United States | Graduate Program | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) |
 | 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | Hardware | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
-| 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 ✏️ | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
+| 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
 
 ## 🎓 Positions by Type
 
@@ -75,7 +75,7 @@ _None currently._
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
-| 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 ✏️ | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
+| 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
 | 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 
 ### Co-op (0)
@@ -94,17 +94,17 @@ _None currently._
 - **Companies succeeded:** 47
 - **Companies failed:** 16
 - **Coverage:** 75%
-- **Raw postings scanned:** 1815
+- **Raw postings scanned:** 1824
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 542s
-- **Last Updated:** 2026-08-21 00:42 UTC
+- **Runtime:** 729s
+- **Last Updated:** 2026-08-22 00:40 UTC
 
 <details><summary><b>Per-company source status (16 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
 | All Options | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| AlphaGrep | `PAGE_NOT_FOUND` | HTTP 404 |  |
+| AlphaGrep | `TIMEOUT` | https://www.alpha-grep.com/careers/ |  |
 | Citadel | `ROBOTS_BLOCKED` | https://www.citadel.com/careers/open-opportunities/ |  |
 | Citadel Securities | `ROBOTS_BLOCKED` | https://www.citadelsecurities.com/careers/open-opportunities/ |  |
 | D. E. Shaw | `ROBOTS_BLOCKED` | https://www.deshaw.com/careers |  |
@@ -114,7 +114,7 @@ _None currently._
 | Grasshopper | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| Quantlab | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
+| Quantlab | `ROBOTS_BLOCKED` | https://www.quantlab.com/careers/ |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | Verition Fund Management | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
@@ -133,6 +133,7 @@ These firms block automated access (robots.txt / bot protection) or require Java
 - **GSR** — `ROBOTS_BLOCKED` → [careers page](https://www.gsr.io/careers/)
 - **GTS** — `ROBOTS_BLOCKED` → [careers page](https://gtsx.com/careers/)
 - **Millennium** — `ROBOTS_BLOCKED` → [careers page](https://www.mlp.com/careers/)
+- **Quantlab** — `ROBOTS_BLOCKED` → [careers page](https://www.quantlab.com/careers/)
 - **Webb Traders** — `JS_REQUIRED` → [careers page](https://www.webbtraders.com/careers/)
 
 ## About

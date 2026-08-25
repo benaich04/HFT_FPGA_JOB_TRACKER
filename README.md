@@ -2,9 +2,9 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-08-24 12:27 UTC
+**Last Updated:** 2026-08-25 00:40 UTC
 
-**Active positions:** 10 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 73% (46/63 companies)
+**Active positions:** 10 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
 
 ## 🔥 New Today
 
@@ -91,20 +91,20 @@ _None currently._
 ## 📊 Statistics
 
 - **Companies scanned:** 63
-- **Companies succeeded:** 46
-- **Companies failed:** 17
-- **Coverage:** 73%
-- **Raw postings scanned:** 1815
+- **Companies succeeded:** 47
+- **Companies failed:** 16
+- **Coverage:** 75%
+- **Raw postings scanned:** 1823
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 522s
-- **Last Updated:** 2026-08-24 12:27 UTC
+- **Runtime:** 547s
+- **Last Updated:** 2026-08-25 00:40 UTC
 
-<details><summary><b>Per-company source status (17 not healthy)</b></summary>
+<details><summary><b>Per-company source status (16 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
 | All Options | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| AlphaGrep | `FORBIDDEN` | HTTP 403 |  |
+| AlphaGrep | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | Citadel | `ROBOTS_BLOCKED` | https://www.citadel.com/careers/open-opportunities/ |  |
 | Citadel Securities | `ROBOTS_BLOCKED` | https://www.citadelsecurities.com/careers/open-opportunities/ |  |
 | D. E. Shaw | `ROBOTS_BLOCKED` | https://www.deshaw.com/careers |  |
@@ -114,12 +114,11 @@ _None currently._
 | Grasshopper | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| Quantlab | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
-| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
+| Quantlab | `ROBOTS_BLOCKED` | https://www.quantlab.com/careers/ |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | Verition Fund Management | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
-| XR Trading | `FORBIDDEN` | HTTP 403 |  |
+| XR Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 
 </details>
 
@@ -127,7 +126,6 @@ _None currently._
 
 These firms block automated access (robots.txt / bot protection) or require JavaScript rendering that wasn't available this run. The tracker **respects those restrictions** rather than bypassing them — review their pages directly:
 
-- **AlphaGrep** — `FORBIDDEN` → [careers page](https://www.alpha-grep.com/careers/)
 - **Citadel** — `ROBOTS_BLOCKED` → [careers page](https://www.citadel.com/careers/open-opportunities/)
 - **Citadel Securities** — `ROBOTS_BLOCKED` → [careers page](https://www.citadelsecurities.com/careers/open-opportunities/)
 - **D. E. Shaw** — `ROBOTS_BLOCKED` → [careers page](https://www.deshaw.com/careers)
@@ -135,8 +133,8 @@ These firms block automated access (robots.txt / bot protection) or require Java
 - **GSR** — `ROBOTS_BLOCKED` → [careers page](https://www.gsr.io/careers/)
 - **GTS** — `ROBOTS_BLOCKED` → [careers page](https://gtsx.com/careers/)
 - **Millennium** — `ROBOTS_BLOCKED` → [careers page](https://www.mlp.com/careers/)
+- **Quantlab** — `ROBOTS_BLOCKED` → [careers page](https://www.quantlab.com/careers/)
 - **Webb Traders** — `JS_REQUIRED` → [careers page](https://www.webbtraders.com/careers/)
-- **XR Trading** — `FORBIDDEN` → [careers page](https://www.xrtrading.com/careers)
 
 ## About
 

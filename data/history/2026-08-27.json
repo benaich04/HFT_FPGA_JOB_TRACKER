@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at": "2026-08-27 05:47 UTC",
+  "generated_at": "2026-08-27 21:26 UTC",
   "stats": {
     "active_total": 11,
     "by_company": {
@@ -8,9 +8,9 @@
       "DRW": 2,
       "Jump Trading": 2,
       "Akuna Capital": 1,
+      "Qube Research & Technologies": 1,
       "SIG (Susquehanna)": 1,
-      "Virtu Financial": 1,
-      "Qube Research & Technologies": 1
+      "Virtu Financial": 1
     },
     "by_category": {
       "FPGA": 6,
@@ -26,13 +26,13 @@
       "Netherlands": 1,
       "Unknown": 1
     },
-    "added": 1,
+    "added": 0,
     "updated": 0,
     "desc_updated": 0,
     "closed_api": 0,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1834
+    "raw_postings": 1833
   },
   "active_jobs": [
     {

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generated_at": "2026-08-28 07:56 UTC",
+  "generated_at": "2026-08-28 21:35 UTC",
   "stats": {
     "active_total": 11,
     "by_company": {
@@ -32,7 +32,7 @@
     "closed_api": 0,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1837
+    "raw_postings": 1839
   },
   "active_jobs": [
     {

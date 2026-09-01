@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01 02:38 UTC",
-  "runtime_seconds": 532.6,
+  "generated_at": "2026-09-01 15:46 UTC",
+  "runtime_seconds": 750.6,
   "stats": {
-    "added": 1,
+    "added": 0,
     "updated": 0,
     "desc_updated": 0,
     "closed_api": 0,
@@ -19,7 +19,7 @@
       "careers_page": "https://www.janestreet.com/join-jane-street/open-roles/",
       "jobs_raw": 232,
       "jobs_kept": 0,
-      "seconds": 0.1,
+      "seconds": 0.4,
       "attempts": [
         "hint:janestreet/https://www.janestreet.com/jobs/main.json=OK"
       ]
@@ -30,9 +30,9 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.jumptrading.com/careers/",
-      "jobs_raw": 109,
+      "jobs_raw": 106,
       "jobs_kept": 2,
-      "seconds": 2.0,
+      "seconds": 1.8,
       "attempts": [
         "hint:greenhouse/jumptrading=OK"
       ]
@@ -56,7 +56,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.hudsonrivertrading.com/careers/",
-      "jobs_raw": 74,
+      "jobs_raw": 73,
       "jobs_kept": 1,
       "seconds": 2.0,
       "attempts": [
@@ -69,7 +69,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.drw.com/work-at-drw/listings/",
-      "jobs_raw": 156,
+      "jobs_raw": 154,
       "jobs_kept": 2,
       "seconds": 2.0,
       "attempts": [
@@ -82,7 +82,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.flowtraders.com/careers",
-      "jobs_raw": 42,
+      "jobs_raw": 43,
       "jobs_kept": 0,
       "seconds": 1.9,
       "attempts": [
@@ -121,7 +121,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://akunacapital.com/careers",
-      "jobs_raw": 34,
+      "jobs_raw": 33,
       "jobs_kept": 1,
       "seconds": 2.0,
       "attempts": [
@@ -149,7 +149,7 @@
       "careers_page": "https://www.transmarketgroup.com/careers/",
       "jobs_raw": 18,
       "jobs_kept": 0,
-      "seconds": 2.0,
+      "seconds": 2.1,
       "attempts": [
         "hint:greenhouse/transmarketgroup=OK"
       ]
@@ -162,7 +162,7 @@
       "careers_page": "https://www.wintermute.com/careers",
       "jobs_raw": 26,
       "jobs_kept": 0,
-      "seconds": 2.7,
+      "seconds": 2.6,
       "attempts": [
         "hint:lever/wintermute-trading=OK"
       ]
@@ -173,7 +173,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.xtxmarkets.com/careers/",
-      "jobs_raw": 9,
+      "jobs_raw": 10,
       "jobs_kept": 0,
       "seconds": 1.3,
       "attempts": [
@@ -203,7 +203,7 @@
       "careers_page": "https://www.citadelsecurities.com/careers/open-opportunities/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 18.0,
+      "seconds": 17.9,
       "attempts": [
         "careers:ROBOTS_BLOCKED",
         "guessing=exhausted",
@@ -218,7 +218,7 @@
       "careers_page": "https://careers.twosigma.com/careers/",
       "jobs_raw": 4,
       "jobs_kept": 0,
-      "seconds": 27.5,
+      "seconds": 28.7,
       "attempts": [
         "careers:PAGE_NOT_FOUND",
         "alt:careers.twosigma.com/careers/=OK",
@@ -245,7 +245,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://careers.imc.com/us/en/search-results",
-      "jobs_raw": 173,
+      "jobs_raw": 175,
       "jobs_kept": 3,
       "seconds": 2.1,
       "attempts": [
@@ -272,9 +272,9 @@
       "detail": "icims platform (browser-only ATS)",
       "method": "playwright:links",
       "careers_page": "https://careers.sig.com/search-results",
-      "jobs_raw": 2,
+      "jobs_raw": 3,
       "jobs_kept": 0,
-      "seconds": 24.1,
+      "seconds": 23.5,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -282,13 +282,13 @@
     },
     {
       "name": "Qube Research & Technologies",
-      "status": "NO_ATS_DETECTED",
+      "status": "OK",
       "detail": "",
-      "method": "",
+      "method": "playwright:links",
       "careers_page": "https://www.qube-rt.com/careers",
-      "jobs_raw": 0,
-      "jobs_kept": 0,
-      "seconds": 28.2,
+      "jobs_raw": 11,
+      "jobs_kept": 1,
+      "seconds": 30.8,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -328,7 +328,7 @@
       "careers_page": "https://www.quantlab.com/careers/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 5.9,
+      "seconds": 6.0,
       "attempts": [
         "careers:ROBOTS_BLOCKED",
         "guessing=exhausted",
@@ -354,7 +354,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.mavensecurities.com/careers/",
-      "jobs_raw": 38,
+      "jobs_raw": 41,
       "jobs_kept": 0,
       "seconds": 1.9,
       "attempts": [
@@ -369,7 +369,7 @@
       "careers_page": "https://radixtrading.co/careers/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 29.1,
+      "seconds": 29.2,
       "attempts": [
         "careers:PAGE_NOT_FOUND",
         "alt:radixtrading.co/join-us/=PAGE_NOT_FOUND",
@@ -387,7 +387,7 @@
       "careers_page": "https://www.chicagotrading.com/careers/",
       "jobs_raw": 24,
       "jobs_kept": 0,
-      "seconds": 0.1,
+      "seconds": 0.0,
       "attempts": [
         "override:greenhouse/chicagotrading=OK"
       ]
@@ -413,7 +413,7 @@
       "careers_page": "https://bamfunds.com/careers",
       "jobs_raw": 5,
       "jobs_kept": 0,
-      "seconds": 29.9,
+      "seconds": 30.0,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -455,7 +455,7 @@
       "careers_page": "https://www.deshaw.com/careers",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 11.9,
+      "seconds": 12.0,
       "attempts": [
         "careers:ROBOTS_BLOCKED",
         "guessing=exhausted",
@@ -481,7 +481,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.schonfeld.com/careers/",
-      "jobs_raw": 55,
+      "jobs_raw": 54,
       "jobs_kept": 0,
       "seconds": 1.9,
       "attempts": [
@@ -509,7 +509,7 @@
       "careers_page": "https://www.verition.com/careers",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 30.7,
+      "seconds": 31.0,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -523,7 +523,7 @@
       "careers_page": "https://www.walleyecapital.com/careers/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 0.1,
+      "seconds": 0.0,
       "attempts": [
         "override:greenhouse/walleyecapital=OK_NO_MATCHES"
       ]
@@ -551,7 +551,7 @@
       "careers_page": "https://peak6.com/careers/",
       "jobs_raw": 1,
       "jobs_kept": 0,
-      "seconds": 13.3,
+      "seconds": 13.4,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -565,7 +565,7 @@
       "careers_page": "https://www.xrtrading.com/careers",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 22.1,
+      "seconds": 21.7,
       "attempts": [
         "careers:PAGE_NOT_FOUND",
         "alt:www.xrtrading.com/join-us/=PAGE_NOT_FOUND",
@@ -607,7 +607,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.gelbergroup.com/careers/",
-      "jobs_raw": 18,
+      "jobs_raw": 8,
       "jobs_kept": 0,
       "seconds": 2.0,
       "attempts": [
@@ -648,7 +648,7 @@
       "careers_page": "https://www.eagleseven.com/careers/",
       "jobs_raw": 2,
       "jobs_kept": 0,
-      "seconds": 2.0,
+      "seconds": 1.9,
       "attempts": [
         "override:ashby/eagle=OK"
       ]
@@ -675,7 +675,7 @@
       "careers_page": "https://www.mako.com/careers/",
       "jobs_raw": 8,
       "jobs_kept": 0,
-      "seconds": 0.1,
+      "seconds": 0.0,
       "attempts": [
         "override:greenhouse/mako=OK"
       ]
@@ -686,7 +686,7 @@
       "detail": "",
       "method": "api:greenhouse",
       "careers_page": "https://www.davinciderivatives.com/careers",
-      "jobs_raw": 13,
+      "jobs_raw": 12,
       "jobs_kept": 0,
       "seconds": 2.0,
       "attempts": [
@@ -701,7 +701,7 @@
       "careers_page": "https://alloptions.nl/careers/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 25.3,
+      "seconds": 37.6,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -715,7 +715,7 @@
       "careers_page": "https://www.webbtraders.com/careers/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 22.6,
+      "seconds": 23.0,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -770,7 +770,7 @@
       "careers_page": "https://www.portofino.tech/careers/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 25.9,
+      "seconds": 24.0,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -798,7 +798,7 @@
       "careers_page": "https://www.dytechlab.com/careers/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 27.5,
+      "seconds": 27.6,
       "attempts": [
         "guessing=exhausted",
         "playwright=OK"
@@ -806,18 +806,15 @@
     },
     {
       "name": "AlphaGrep",
-      "status": "PAGE_NOT_FOUND",
-      "detail": "HTTP 404",
+      "status": "TIMEOUT",
+      "detail": "https://www.alpha-grep.com/careers/",
       "method": "",
       "careers_page": "https://www.alpha-grep.com/careers/",
       "jobs_raw": 0,
       "jobs_kept": 0,
-      "seconds": 16.0,
+      "seconds": 219.7,
       "attempts": [
-        "careers:PAGE_NOT_FOUND",
-        "alt:www.alpha-grep.com/join-us/=PAGE_NOT_FOUND",
-        "alt:www.alpha-grep.com/jobs/=PAGE_NOT_FOUND",
-        "alt:www.alpha-grep.com/careers/open-positions/=PAGE_NOT_FOUND",
+        "careers:TIMEOUT",
         "guessing=exhausted",
         "playwright=OK"
       ]

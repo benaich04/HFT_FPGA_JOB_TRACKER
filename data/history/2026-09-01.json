@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generated_at": "2026-09-01 02:38 UTC",
+  "generated_at": "2026-09-01 15:46 UTC",
   "stats": {
     "active_total": 12,
     "by_company": {
@@ -8,10 +8,10 @@
       "DRW": 2,
       "Jump Trading": 2,
       "Akuna Capital": 1,
+      "Hudson River Trading": 1,
       "Qube Research & Technologies": 1,
       "SIG (Susquehanna)": 1,
-      "Virtu Financial": 1,
-      "Hudson River Trading": 1
+      "Virtu Financial": 1
     },
     "by_category": {
       "FPGA": 7,
@@ -27,7 +27,7 @@
       "Netherlands": 1,
       "Unknown": 1
     },
-    "added": 1,
+    "added": 0,
     "updated": 0,
     "desc_updated": 0,
     "closed_api": 0,

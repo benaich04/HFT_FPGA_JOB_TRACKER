@@ -2,26 +2,19 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-02 01:59 UTC
+**Last Updated:** 2026-09-02 15:37 UTC
 
-**Active positions:** 12 &nbsp;·&nbsp; **New today:** 1 &nbsp;·&nbsp; **New this week:** 2 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
+**Active positions:** 12 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 2 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
 
 ## 🔥 New Today
 
-**Role:** Hardware Engineer Internship - Summer 2027 &nbsp;·&nbsp; **Confidence:** 99%
-**Company:** Hudson River Trading
-**Location:** New York, NY, United States; New York City (United States)
-**Type:** Internship &nbsp;·&nbsp; **Category:** FPGA
-**Found:** 2026-09-01 02:38 UTC
-**About:** <p>The Hardware team at Hudson River Trading (HRT) creates high performance compute engines using FPGA and ASIC technologies to drive low latency trading decisions on global markets. We build custom solutions across the spectrum of speed and smarts: from bespoke circuits to world-class machine…
-**Link:** [Apply here](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574)
-
----
+_No new positions in the last 24 hours._
 
 ## 🆕 New This Week
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
+| 99% | Hudson River Trading | Hardware Engineer Internship - Summer 2027 | New York, NY, United States; New York City | Internship | FPGA | 2026-09-01 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
 | 85% | Qube Research & Technologies | 2027 Internship/Graduate - FPGA Engineer Hong Kong View opportunity | — | Internship | FPGA | 2026-08-27 | [Apply](https://www.qube-rt.com/job?gh_jid=8742098002) |
 
 ## 🗂 Positions by Category
@@ -30,7 +23,7 @@ Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, c
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
-| 99% | Hudson River Trading | Hardware Engineer Internship - Summer 2027 🆕 | New York, NY, United States; New York City | Internship | FPGA | 2026-09-01 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
+| 99% | Hudson River Trading | Hardware Engineer Internship - Summer 2027 | New York, NY, United States; New York City | Internship | FPGA | 2026-09-01 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
@@ -78,7 +71,7 @@ _None currently._
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
-| 99% | Hudson River Trading | Hardware Engineer Internship - Summer 2027 🆕 | New York, NY, United States; New York City | Internship | FPGA | 2026-09-01 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
+| 99% | Hudson River Trading | Hardware Engineer Internship - Summer 2027 | New York, NY, United States; New York City | Internship | FPGA | 2026-09-01 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
 | 95% | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Internship | Hardware | 2026-07-14 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
@@ -103,15 +96,15 @@ _None currently._
 ## 📊 Statistics
 
 - **Companies scanned:** 63
-- **Companies succeeded:** 47
-- **Companies failed:** 16
-- **Coverage:** 75%
-- **Raw postings scanned:** 1829
+- **Companies succeeded:** 48
+- **Companies failed:** 15
+- **Coverage:** 76%
+- **Raw postings scanned:** 1837
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 502s
-- **Last Updated:** 2026-09-02 01:59 UTC
+- **Runtime:** 569s
+- **Last Updated:** 2026-09-02 15:37 UTC
 
-<details><summary><b>Per-company source status (16 not healthy)</b></summary>
+<details><summary><b>Per-company source status (15 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
@@ -128,7 +121,6 @@ _None currently._
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `ROBOTS_BLOCKED` | https://www.quantlab.com/careers/ |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
-| Verition Fund Management | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
 | XR Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 

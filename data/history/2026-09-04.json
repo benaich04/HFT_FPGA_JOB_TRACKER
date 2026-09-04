@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generated_at": "2026-09-04 02:00 UTC",
+  "generated_at": "2026-09-04 15:27 UTC",
   "stats": {
     "active_total": 13,
     "by_company": {
@@ -33,7 +33,7 @@
     "closed_api": 0,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1827
+    "raw_postings": 1830
   },
   "active_jobs": [
     {
@@ -160,7 +160,7 @@
       "id": "sig-susquehanna-https-careers-sig-com-jobs-11446",
       "company": "SIG (Susquehanna)",
       "title": "FPGA Engineering Internship: Summer 2027",
-      "location": "Application Support Analyst - SQL Location Bala Cynwyd (Philadelphia Area), Pennsylvania…",
+      "location": "Technology Co-op with RIT Location Bala Cynwyd (Philadelphia Area), Pennsylvania United…",
       "country": "United States",
       "type": "Internship",
       "category": "FPGA",

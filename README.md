@@ -2,26 +2,20 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-04 15:27 UTC
+**Last Updated:** 2026-09-05 02:01 UTC
 
-**Active positions:** 13 &nbsp;·&nbsp; **New today:** 1 &nbsp;·&nbsp; **New this week:** 2 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
+**Active positions:** 13 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 2 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
 
 ## 🔥 New Today
 
-**Role:** FPGA Engineering Internship: Summer 2027 &nbsp;·&nbsp; **Confidence:** 95%
-**Company:** SIG (Susquehanna)
-**Location:** Technology Co-op with RIT Location Bala Cynwyd (Philadelphia Area), Pennsylvania United… (United States)
-**Type:** Internship &nbsp;·&nbsp; **Category:** FPGA
-**Found:** 2026-09-03 15:30 UTC
-**Link:** [Apply here](https://careers.sig.com/jobs/11446?lang=en-us)
-
----
+_No new positions in the last 24 hours._
 
 ## 🆕 New This Week
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 99% | Hudson River Trading | Hardware Engineer Internship - Summer 2027 | New York, NY, United States; New York City | Internship | FPGA | 2026-09-01 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
+| 95% | SIG (Susquehanna) | FPGA Engineering Internship: Summer 2027 ✏️ | Technology Co-op with Northeastern University Location Bala Cynwyd (Philadelphia Area)… | Internship | FPGA | 2026-09-03 | [Apply](https://careers.sig.com/jobs/11446?lang=en-us) |
 
 ## 🗂 Positions by Category
 
@@ -34,7 +28,7 @@ Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, c
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
-| 95% | SIG (Susquehanna) | FPGA Engineering Internship: Summer 2027 🆕 | Technology Co-op with RIT Location Bala Cynwyd (Philadelphia Area), Pennsylvania United… | Internship | FPGA | 2026-09-03 | [Apply](https://careers.sig.com/jobs/11446?lang=en-us) |
+| 95% | SIG (Susquehanna) | FPGA Engineering Internship: Summer 2027 ✏️ | Technology Co-op with Northeastern University Location Bala Cynwyd (Philadelphia Area)… | Internship | FPGA | 2026-09-03 | [Apply](https://careers.sig.com/jobs/11446?lang=en-us) |
 | 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 | 85% | Qube Research & Technologies | 2027 Internship/Graduate - FPGA Engineer Hong Kong View opportunity | — | Internship | FPGA | 2026-08-27 | [Apply](https://www.qube-rt.com/job?gh_jid=8742098002) |
 
@@ -86,7 +80,7 @@ _None currently._
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | Jump Trading | Campus FPGA Engineer (Intern) | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8003013) |
-| 95% | SIG (Susquehanna) | FPGA Engineering Internship: Summer 2027 🆕 | Technology Co-op with RIT Location Bala Cynwyd (Philadelphia Area), Pennsylvania United… | Internship | FPGA | 2026-09-03 | [Apply](https://careers.sig.com/jobs/11446?lang=en-us) |
+| 95% | SIG (Susquehanna) | FPGA Engineering Internship: Summer 2027 ✏️ | Technology Co-op with Northeastern University Location Bala Cynwyd (Philadelphia Area)… | Internship | FPGA | 2026-09-03 | [Apply](https://careers.sig.com/jobs/11446?lang=en-us) |
 | 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
 | 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 | 85% | Qube Research & Technologies | 2027 Internship/Graduate - FPGA Engineer Hong Kong View opportunity | — | Internship | FPGA | 2026-08-27 | [Apply](https://www.qube-rt.com/job?gh_jid=8742098002) |
@@ -107,10 +101,10 @@ _None currently._
 - **Companies succeeded:** 48
 - **Companies failed:** 15
 - **Coverage:** 76%
-- **Raw postings scanned:** 1830
+- **Raw postings scanned:** 1848
 - **This run:** +0 new · 0 descriptions updated · 1 fields updated · 0 closed · 0 reopened
-- **Runtime:** 545s
-- **Last Updated:** 2026-09-04 15:27 UTC
+- **Runtime:** 564s
+- **Last Updated:** 2026-09-05 02:01 UTC
 
 <details><summary><b>Per-company source status (15 not healthy)</b></summary>
 

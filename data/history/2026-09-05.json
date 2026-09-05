@@ -1,39 +1,39 @@
 {
   "date": "2026-09-05",
-  "generated_at": "2026-09-05 02:01 UTC",
+  "generated_at": "2026-09-05 14:14 UTC",
   "stats": {
-    "active_total": 13,
+    "active_total": 12,
     "by_company": {
       "IMC Trading": 3,
       "DRW": 2,
-      "Jump Trading": 2,
       "SIG (Susquehanna)": 2,
       "Akuna Capital": 1,
       "Hudson River Trading": 1,
+      "Jump Trading": 1,
       "Qube Research & Technologies": 1,
       "Virtu Financial": 1
     },
     "by_category": {
-      "FPGA": 8,
+      "FPGA": 7,
       "Hardware": 5
     },
     "by_type": {
-      "Internship": 12,
+      "Internship": 11,
       "Graduate Program": 1
     },
     "by_country": {
-      "United States": 8,
+      "United States": 7,
       "United Kingdom": 3,
       "Netherlands": 1,
       "Unknown": 1
     },
     "added": 0,
-    "updated": 1,
+    "updated": 0,
     "desc_updated": 0,
-    "closed_api": 0,
+    "closed_api": 1,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1848
+    "raw_postings": 1835
   },
   "active_jobs": [
     {
@@ -130,18 +130,6 @@
       "category": "FPGA",
       "score": 95,
       "url": "https://www.jumptrading.com/hr/job?gh_jid=7974391",
-      "first_seen": "2026-07-14 02:58 UTC"
-    },
-    {
-      "id": "jump-trading-greenhouse-8003013",
-      "company": "Jump Trading",
-      "title": "Campus FPGA Engineer (Intern)",
-      "location": "Chicago",
-      "country": "United States",
-      "type": "Internship",
-      "category": "FPGA",
-      "score": 95,
-      "url": "https://www.jumptrading.com/hr/job?gh_jid=8003013",
       "first_seen": "2026-07-14 02:58 UTC"
     },
     {

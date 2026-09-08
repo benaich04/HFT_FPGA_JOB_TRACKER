@@ -1,40 +1,40 @@
 {
   "date": "2026-09-08",
-  "generated_at": "2026-09-08 02:05 UTC",
+  "generated_at": "2026-09-08 15:39 UTC",
   "stats": {
-    "active_total": 12,
+    "active_total": 13,
     "by_company": {
       "IMC Trading": 3,
       "DRW": 2,
+      "Qube Research & Technologies": 2,
       "SIG (Susquehanna)": 2,
       "Akuna Capital": 1,
       "Hudson River Trading": 1,
       "Jump Trading": 1,
-      "Qube Research & Technologies": 1,
       "Virtu Financial": 1
     },
     "by_category": {
-      "FPGA": 7,
+      "FPGA": 8,
       "Hardware": 5
     },
     "by_type": {
-      "Internship": 11,
+      "Internship": 12,
       "Graduate Program": 1
     },
     "by_country": {
       "United States": 6,
       "United Kingdom": 3,
+      "Unknown": 2,
       "Netherlands": 1,
-      "Unknown": 1,
       "Hong Kong": 1
     },
-    "added": 0,
-    "updated": 0,
+    "added": 1,
+    "updated": 1,
     "desc_updated": 0,
     "closed_api": 0,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1836
+    "raw_postings": 1840
   },
   "active_jobs": [
     {
@@ -134,9 +134,21 @@
       "first_seen": "2026-07-14 02:58 UTC"
     },
     {
+      "id": "qube-research-technologies-https-www-qube-rt-com-job-gh-jid-8777855002",
+      "company": "Qube Research & Technologies",
+      "title": "2027 Internship/Graduate - FPGA Engineering London View opportunity",
+      "location": "",
+      "country": "Unknown",
+      "type": "Internship",
+      "category": "FPGA",
+      "score": 85,
+      "url": "https://www.qube-rt.com/job?gh_jid=8777855002",
+      "first_seen": "2026-09-08 15:39 UTC"
+    },
+    {
       "id": "qube-research-technologies-https-www-qube-rt-com-job-gh-jid-8742098002",
       "company": "Qube Research & Technologies",
-      "title": "2027 Internship/Graduate - FPGA Engineer Hong Kong View opportunity",
+      "title": "2027 – Internship or Graduate, FPGA Engineering Hong Kong View opportunity",
       "location": "",
       "country": "Unknown",
       "type": "Internship",

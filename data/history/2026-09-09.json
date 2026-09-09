@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "2026-09-09 02:09 UTC",
+  "generated_at": "2026-09-09 15:34 UTC",
   "stats": {
     "active_total": 13,
     "by_company": {
@@ -29,12 +29,12 @@
       "Hong Kong": 1
     },
     "added": 0,
-    "updated": 0,
+    "updated": 1,
     "desc_updated": 0,
     "closed_api": 0,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1844
+    "raw_postings": 1836
   },
   "active_jobs": [
     {
@@ -136,7 +136,7 @@
     {
       "id": "qube-research-technologies-https-www-qube-rt-com-job-gh-jid-8777855002",
       "company": "Qube Research & Technologies",
-      "title": "2027 Internship/Graduate - FPGA Engineering London View opportunity",
+      "title": "2027 Internship/Graduate - FPGA Engineering London , Paris View opportunity",
       "location": "",
       "country": "Unknown",
       "type": "Internship",

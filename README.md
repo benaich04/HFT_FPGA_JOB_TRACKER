@@ -2,9 +2,9 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-10 15:29 UTC
+**Last Updated:** 2026-09-11 02:04 UTC
 
-**Active positions:** 13 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 2 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
+**Active positions:** 13 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
 
 ## 🔥 New Today
 
@@ -14,7 +14,6 @@ _No new positions in the last 24 hours._
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
-| 95% | SIG (Susquehanna) | FPGA Engineering Internship: Summer 2027 | Machine Learning Internship - PhD: 2027 Location Hong Kong, Hong Kong Job Category… | Internship | FPGA | 2026-09-03 | [Apply](https://careers.sig.com/jobs/11446?lang=en-us) |
 | 85% | Qube Research & Technologies | 2027 – Internship or Graduate, FPGA Engineering London , Paris View opportunity ✏️ | — | Internship | FPGA | 2026-09-08 | [Apply](https://www.qube-rt.com/job?gh_jid=8777855002) |
 
 ## 🗂 Positions by Category
@@ -101,10 +100,10 @@ _None currently._
 - **Companies succeeded:** 47
 - **Companies failed:** 16
 - **Coverage:** 75%
-- **Raw postings scanned:** 1837
-- **This run:** +0 new · 0 descriptions updated · 1 fields updated · 0 closed · 0 reopened
-- **Runtime:** 608s
-- **Last Updated:** 2026-09-10 15:29 UTC
+- **Raw postings scanned:** 1844
+- **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
+- **Runtime:** 558s
+- **Last Updated:** 2026-09-11 02:04 UTC
 
 <details><summary><b>Per-company source status (16 not healthy)</b></summary>
 

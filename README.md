@@ -2,9 +2,9 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-12 02:09 UTC
+**Last Updated:** 2026-09-12 14:38 UTC
 
-**Active positions:** 13 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
+**Active positions:** 12 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
 
 ## 🔥 New Today
 
@@ -55,11 +55,10 @@ _None currently._
 
 _None currently._
 
-### Hardware (5)
+### Hardware (4)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
-| 95% | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Internship | Hardware | 2026-07-14 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | 95% | IMC Trading | Graduate Hardware Engineer | Chicago, United States | Graduate Program | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) |
 | 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | Hardware | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
@@ -67,12 +66,11 @@ _None currently._
 
 ## 🎓 Positions by Type
 
-### Internships (12)
+### Internships (11)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 99% | Hudson River Trading | Hardware Engineer Internship - Summer 2027 | New York, NY, United States; New York City | Internship | FPGA | 2026-09-01 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
-| 95% | Akuna Capital | Hardware Engineer Intern, Summer 2027 | Chicago, IL | Internship | Hardware | 2026-07-14 | [Apply](https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880) |
 | 95% | DRW | FPGA Intern | Chicago | Internship | FPGA | 2026-07-14 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8038923) |
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
 | 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | Hardware | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
@@ -100,10 +98,10 @@ _None currently._
 - **Companies succeeded:** 48
 - **Companies failed:** 15
 - **Coverage:** 76%
-- **Raw postings scanned:** 1855
-- **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 617s
-- **Last Updated:** 2026-09-12 02:09 UTC
+- **Raw postings scanned:** 1859
+- **This run:** +0 new · 0 descriptions updated · 0 fields updated · 1 closed · 0 reopened
+- **Runtime:** 532s
+- **Last Updated:** 2026-09-12 14:38 UTC
 
 <details><summary><b>Per-company source status (15 not healthy)</b></summary>
 

@@ -1,28 +1,27 @@
 {
   "date": "2026-09-12",
-  "generated_at": "2026-09-12 02:09 UTC",
+  "generated_at": "2026-09-12 14:38 UTC",
   "stats": {
-    "active_total": 13,
+    "active_total": 12,
     "by_company": {
       "IMC Trading": 3,
       "DRW": 2,
       "Qube Research & Technologies": 2,
       "SIG (Susquehanna)": 2,
-      "Akuna Capital": 1,
       "Hudson River Trading": 1,
       "Jump Trading": 1,
       "Virtu Financial": 1
     },
     "by_category": {
       "FPGA": 8,
-      "Hardware": 5
+      "Hardware": 4
     },
     "by_type": {
-      "Internship": 12,
+      "Internship": 11,
       "Graduate Program": 1
     },
     "by_country": {
-      "United States": 6,
+      "United States": 5,
       "United Kingdom": 3,
       "Unknown": 2,
       "Netherlands": 1,
@@ -31,24 +30,12 @@
     "added": 0,
     "updated": 0,
     "desc_updated": 0,
-    "closed_api": 0,
+    "closed_api": 1,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1855
+    "raw_postings": 1859
   },
   "active_jobs": [
-    {
-      "id": "akuna-capital-greenhouse-8018880",
-      "company": "Akuna Capital",
-      "title": "Hardware Engineer Intern, Summer 2027",
-      "location": "Chicago, IL ",
-      "country": "United States",
-      "type": "Internship",
-      "category": "Hardware",
-      "score": 95,
-      "url": "https://www.akunacapital.com/careers/job/8018880/?gh_jid=8018880",
-      "first_seen": "2026-07-14 02:58 UTC"
-    },
     {
       "id": "drw-greenhouse-8038923",
       "company": "DRW",

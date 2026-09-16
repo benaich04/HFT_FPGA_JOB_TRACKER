@@ -2,25 +2,19 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-15 15:55 UTC
+**Last Updated:** 2026-09-16 02:22 UTC
 
-**Active positions:** 13 &nbsp;·&nbsp; **New today:** 1 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
+**Active positions:** 13 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
 
 ## 🔥 New Today
 
-**Role:** Graduate Hardware Engineer &nbsp;·&nbsp; **Confidence:** 95%
-**Company:** IMC Trading
-**Location:** Amsterdam, Netherlands (Netherlands)
-**Type:** Graduate Program &nbsp;·&nbsp; **Category:** Hardware
-**Found:** 2026-09-14 17:15 UTC
-**About:** <h3 class="markdown__heading"><strong>Your IMC Journey as a Graduate Hardware Engineer</strong></h3> <p>As a Graduate Hardware Engineer at IMC, you’ll begin your career with a comprehensive five-week Global Trainee Programme led by our experienced engineers and traders, together with fellow…
-**Link:** [Apply here](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101)
-
----
+_No new positions in the last 24 hours._
 
 ## 🆕 New This Week
 
-_All of this week's finds are listed under New Today._
+| Score | Company | Position | Location | Type | Category | Found | Link |
+|------:|---------|----------|----------|------|----------|-------|------|
+| 95% | IMC Trading | Graduate Hardware Engineer | Amsterdam, Netherlands | Graduate Program | Hardware | 2026-09-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101) |
 
 ## 🗂 Positions by Category
 
@@ -66,7 +60,7 @@ _None currently._
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 95% | IMC Trading | Graduate Hardware Engineer | Chicago, United States | Graduate Program | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) |
-| 95% | IMC Trading | Graduate Hardware Engineer 🆕 | Amsterdam, Netherlands | Graduate Program | Hardware | 2026-09-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101) |
+| 95% | IMC Trading | Graduate Hardware Engineer | Amsterdam, Netherlands | Graduate Program | Hardware | 2026-09-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101) |
 | 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | Hardware | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
@@ -98,7 +92,7 @@ _None currently._
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 95% | IMC Trading | Graduate Hardware Engineer | Chicago, United States | Graduate Program | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823805101) |
-| 95% | IMC Trading | Graduate Hardware Engineer 🆕 | Amsterdam, Netherlands | Graduate Program | Hardware | 2026-09-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101) |
+| 95% | IMC Trading | Graduate Hardware Engineer | Amsterdam, Netherlands | Graduate Program | Hardware | 2026-09-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101) |
 
 ## 📊 Statistics
 
@@ -106,10 +100,10 @@ _None currently._
 - **Companies succeeded:** 48
 - **Companies failed:** 15
 - **Coverage:** 76%
-- **Raw postings scanned:** 1863
+- **Raw postings scanned:** 1860
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 560s
-- **Last Updated:** 2026-09-15 15:55 UTC
+- **Runtime:** 505s
+- **Last Updated:** 2026-09-16 02:22 UTC
 
 <details><summary><b>Per-company source status (15 not healthy)</b></summary>
 

@@ -2,9 +2,9 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-21 02:22 UTC
+**Last Updated:** 2026-09-21 17:26 UTC
 
-**Active positions:** 13 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
+**Active positions:** 13 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 0 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
 
 ## 🔥 New Today
 
@@ -12,9 +12,7 @@ _No new positions in the last 24 hours._
 
 ## 🆕 New This Week
 
-| Score | Company | Position | Location | Type | Category | Found | Link |
-|------:|---------|----------|----------|------|----------|-------|------|
-| 95% | IMC Trading | Graduate Hardware Engineer | Amsterdam, Netherlands | Graduate Program | Hardware | 2026-09-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4975740101) |
+_No new positions in the last 7 days._
 
 ## 🗂 Positions by Category
 
@@ -97,15 +95,15 @@ _None currently._
 ## 📊 Statistics
 
 - **Companies scanned:** 63
-- **Companies succeeded:** 48
-- **Companies failed:** 15
-- **Coverage:** 76%
-- **Raw postings scanned:** 1909
+- **Companies succeeded:** 47
+- **Companies failed:** 16
+- **Coverage:** 75%
+- **Raw postings scanned:** 1899
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 510s
-- **Last Updated:** 2026-09-21 02:22 UTC
+- **Runtime:** 555s
+- **Last Updated:** 2026-09-21 17:26 UTC
 
-<details><summary><b>Per-company source status (15 not healthy)</b></summary>
+<details><summary><b>Per-company source status (16 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
@@ -121,6 +119,7 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `ROBOTS_BLOCKED` | https://www.quantlab.com/careers/ |  |
+| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
 | XR Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |

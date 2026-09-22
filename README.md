@@ -2,7 +2,7 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-21 17:26 UTC
+**Last Updated:** 2026-09-22 02:25 UTC
 
 **Active positions:** 13 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 0 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
 
@@ -98,10 +98,10 @@ _None currently._
 - **Companies succeeded:** 47
 - **Companies failed:** 16
 - **Coverage:** 75%
-- **Raw postings scanned:** 1899
+- **Raw postings scanned:** 1903
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 555s
-- **Last Updated:** 2026-09-21 17:26 UTC
+- **Runtime:** 776s
+- **Last Updated:** 2026-09-22 02:25 UTC
 
 <details><summary><b>Per-company source status (16 not healthy)</b></summary>
 
@@ -119,7 +119,7 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `ROBOTS_BLOCKED` | https://www.quantlab.com/careers/ |  |
-| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
+| Qube Research & Technologies | `TIMEOUT` | https://www.qube-rt.com/careers |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
 | XR Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |

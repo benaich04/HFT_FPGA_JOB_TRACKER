@@ -2,24 +2,19 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-24 02:15 UTC
+**Last Updated:** 2026-09-24 16:08 UTC
 
-**Active positions:** 14 &nbsp;·&nbsp; **New today:** 1 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 73% (46/63 companies)
+**Active positions:** 14 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
 
 ## 🔥 New Today
 
-**Role:** TSS Hardware Engineering Internship (Summer 2027) &nbsp;·&nbsp; **Confidence:** 85%
-**Company:** Two Sigma
-**Location:** — (Unknown)
-**Type:** Internship &nbsp;·&nbsp; **Category:** Hardware
-**Found:** 2026-09-23 02:26 UTC
-**Link:** [Apply here](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289)
-
----
+_No new positions in the last 24 hours._
 
 ## 🆕 New This Week
 
-_All of this week's finds are listed under New Today._
+| Score | Company | Position | Location | Type | Category | Found | Link |
+|------:|---------|----------|----------|------|----------|-------|------|
+| 85% | Two Sigma | TSS Hardware Engineering Internship (Summer 2027) | — | Internship | Hardware | 2026-09-23 | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289) |
 
 ## 🗂 Positions by Category
 
@@ -69,7 +64,7 @@ _None currently._
 | 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | Hardware | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
 | 95% | SIG (Susquehanna) | Hardware Engineer University Co - Op Placement 2027 | OTC Middle Office Lead Location London, United Kingdom Job Category Operations City… | Internship | Hardware | 2026-08-20 | [Apply](https://careers.sig.com/jobs/11270?lang=en-us) |
-| 85% | Two Sigma | TSS Hardware Engineering Internship (Summer 2027) 🆕 | — | Internship | Hardware | 2026-09-23 | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289) |
+| 85% | Two Sigma | TSS Hardware Engineering Internship (Summer 2027) | — | Internship | Hardware | 2026-09-23 | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289) |
 
 ## 🎓 Positions by Type
 
@@ -88,7 +83,7 @@ _None currently._
 | 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 | 85% | Qube Research & Technologies | 2027 – Internship or Graduate, FPGA Engineering Hong Kong View opportunity | — | Internship | FPGA | 2026-08-27 | [Apply](https://www.qube-rt.com/job?gh_jid=8742098002) |
 | 85% | Qube Research & Technologies | 2027 – Internship or Graduate, FPGA Engineering London , Paris View opportunity | — | Internship | FPGA | 2026-09-08 | [Apply](https://www.qube-rt.com/job?gh_jid=8777855002) |
-| 85% | Two Sigma | TSS Hardware Engineering Internship (Summer 2027) 🆕 | — | Internship | Hardware | 2026-09-23 | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289) |
+| 85% | Two Sigma | TSS Hardware Engineering Internship (Summer 2027) | — | Internship | Hardware | 2026-09-23 | [Apply](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-TSS-Hardware-Engineering-Internship-Summer-2027/14289) |
 
 ### Co-op (0)
 
@@ -104,15 +99,15 @@ _None currently._
 ## 📊 Statistics
 
 - **Companies scanned:** 63
-- **Companies succeeded:** 46
-- **Companies failed:** 17
-- **Coverage:** 73%
-- **Raw postings scanned:** 1897
+- **Companies succeeded:** 47
+- **Companies failed:** 16
+- **Coverage:** 75%
+- **Raw postings scanned:** 1909
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 513s
-- **Last Updated:** 2026-09-24 02:15 UTC
+- **Runtime:** 585s
+- **Last Updated:** 2026-09-24 16:08 UTC
 
-<details><summary><b>Per-company source status (17 not healthy)</b></summary>
+<details><summary><b>Per-company source status (16 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
@@ -128,7 +123,6 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `ROBOTS_BLOCKED` | https://www.quantlab.com/careers/ |  |
-| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 | SIG (Susquehanna) | `JS_REQUIRED` | icims platform (browser-only ATS) |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |

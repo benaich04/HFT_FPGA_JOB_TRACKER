@@ -2,7 +2,7 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-09-24 16:08 UTC
+**Last Updated:** 2026-09-25 02:31 UTC
 
 **Active positions:** 14 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 1 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
 
@@ -102,10 +102,10 @@ _None currently._
 - **Companies succeeded:** 47
 - **Companies failed:** 16
 - **Coverage:** 75%
-- **Raw postings scanned:** 1909
+- **Raw postings scanned:** 1887
 - **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 585s
-- **Last Updated:** 2026-09-24 16:08 UTC
+- **Runtime:** 540s
+- **Last Updated:** 2026-09-25 02:31 UTC
 
 <details><summary><b>Per-company source status (16 not healthy)</b></summary>
 
@@ -123,8 +123,8 @@ _None currently._
 | Millennium | `ROBOTS_BLOCKED` | https://www.mlp.com/careers/ |  |
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `ROBOTS_BLOCKED` | https://www.quantlab.com/careers/ |  |
+| Qube Research & Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
-| SIG (Susquehanna) | `JS_REQUIRED` | icims platform (browser-only ATS) |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
 | XR Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
 
@@ -142,7 +142,6 @@ These firms block automated access (robots.txt / bot protection) or require Java
 - **GTS** — `ROBOTS_BLOCKED` → [careers page](https://gtsx.com/careers/)
 - **Millennium** — `ROBOTS_BLOCKED` → [careers page](https://www.mlp.com/careers/)
 - **Quantlab** — `ROBOTS_BLOCKED` → [careers page](https://www.quantlab.com/careers/)
-- **SIG (Susquehanna)** — `JS_REQUIRED` → [careers page](https://careers.sig.com/search-results)
 - **Webb Traders** — `JS_REQUIRED` → [careers page](https://www.webbtraders.com/careers/)
 
 ## About

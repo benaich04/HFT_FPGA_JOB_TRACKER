@@ -1,28 +1,28 @@
 {
   "date": "2026-10-02",
-  "generated_at": "2026-10-02 03:09 UTC",
+  "generated_at": "2026-10-02 17:02 UTC",
   "stats": {
-    "active_total": 14,
+    "active_total": 13,
     "by_company": {
       "IMC Trading": 4,
-      "DRW": 2,
       "Qube Research & Technologies": 2,
       "SIG (Susquehanna)": 2,
+      "DRW": 1,
       "Hudson River Trading": 1,
       "Jump Trading": 1,
       "Two Sigma": 1,
       "Virtu Financial": 1
     },
     "by_category": {
-      "FPGA": 8,
+      "FPGA": 7,
       "Hardware": 6
     },
     "by_type": {
-      "Internship": 12,
+      "Internship": 11,
       "Graduate Program": 2
     },
     "by_country": {
-      "United States": 5,
+      "United States": 4,
       "United Kingdom": 3,
       "Unknown": 3,
       "Netherlands": 2,
@@ -31,24 +31,12 @@
     "added": 0,
     "updated": 0,
     "desc_updated": 0,
-    "closed_api": 0,
+    "closed_api": 1,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1895
+    "raw_postings": 1885
   },
   "active_jobs": [
-    {
-      "id": "drw-greenhouse-8038923",
-      "company": "DRW",
-      "title": "FPGA Intern",
-      "location": "Chicago",
-      "country": "United States",
-      "type": "Internship",
-      "category": "FPGA",
-      "score": 95,
-      "url": "https://job-boards.greenhouse.io/drweng/jobs/8038923",
-      "first_seen": "2026-07-14 02:58 UTC"
-    },
     {
       "id": "drw-greenhouse-8070392",
       "company": "DRW",

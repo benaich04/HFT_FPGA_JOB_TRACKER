@@ -2,9 +2,9 @@
 
 Automated tracker for **FPGA / DSP / Signal Processing / hardware internships, co-ops, and graduate programs** at major HFT and quant firms. Career pages and ATS APIs are re-checked every 12 hours; sources are auto-discovered and self-healing.
 
-**Last Updated:** 2026-10-14 02:43 UTC
+**Last Updated:** 2026-10-14 16:10 UTC
 
-**Active positions:** 12 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 0 &nbsp;·&nbsp; **Source coverage:** 75% (47/63 companies)
+**Active positions:** 11 &nbsp;·&nbsp; **New today:** 0 &nbsp;·&nbsp; **New this week:** 0 &nbsp;·&nbsp; **Source coverage:** 76% (48/63 companies)
 
 ## 🔥 New Today
 
@@ -16,13 +16,12 @@ _No new positions in the last 7 days._
 
 ## 🗂 Positions by Category
 
-### FPGA (7)
+### FPGA (6)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
 | 99% | Hudson River Trading | Hardware Engineer Internship - Summer 2027 | New York, NY, United States; New York City | Internship | FPGA | 2026-09-01 | [Apply](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7899574) |
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
-| 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | SIG (Susquehanna) | FPGA Engineering Internship: Summer 2027 | Machine Learning Internship - PhD: 2027 Location Hong Kong, Hong Kong Job Category… | Internship | FPGA | 2026-09-03 | [Apply](https://careers.sig.com/jobs/11446?lang=en-us) |
 | 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 | 85% | Qube Research & Technologies | 2027 – Internship or Graduate, FPGA Engineering Hong Kong View opportunity | — | Internship | FPGA | 2026-08-27 | [Apply](https://www.qube-rt.com/job?gh_jid=8742098002) |
@@ -64,7 +63,7 @@ _None currently._
 
 ## 🎓 Positions by Type
 
-### Internships (10)
+### Internships (9)
 
 | Score | Company | Position | Location | Type | Category | Found | Link |
 |------:|---------|----------|----------|------|----------|-------|------|
@@ -72,7 +71,6 @@ _None currently._
 | 95% | DRW | FPGA Intern | London | Internship | FPGA | 2026-07-17 | [Apply](https://job-boards.greenhouse.io/drweng/jobs/8070392) |
 | 95% | IMC Trading | Hardware Engineer Intern | Amsterdam, Netherlands | Internship | Hardware | 2026-08-01 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4927149101) |
 | 95% | IMC Trading | Hardware Engineer Intern - Summer 2027 | Chicago, United States | Internship | Hardware | 2026-07-14 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4823945101) |
-| 95% | Jump Trading | Campus FPGA Engineer (Intern) | London | Internship | FPGA | 2026-07-14 | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7974391) |
 | 95% | SIG (Susquehanna) | FPGA Engineering Internship: Summer 2027 | Machine Learning Internship - PhD: 2027 Location Hong Kong, Hong Kong Job Category… | Internship | FPGA | 2026-09-03 | [Apply](https://careers.sig.com/jobs/11446?lang=en-us) |
 | 95% | Virtu Financial | 2027 Internship- Hardware Engineer (FPGA) | Austin, TX; Austin, TX; New York | Internship | FPGA | 2026-08-01 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657286002) |
 | 85% | Qube Research & Technologies | 2027 – Internship or Graduate, FPGA Engineering Hong Kong View opportunity | — | Internship | FPGA | 2026-08-27 | [Apply](https://www.qube-rt.com/job?gh_jid=8742098002) |
@@ -93,15 +91,15 @@ _None currently._
 ## 📊 Statistics
 
 - **Companies scanned:** 63
-- **Companies succeeded:** 47
-- **Companies failed:** 16
-- **Coverage:** 75%
-- **Raw postings scanned:** 1885
-- **This run:** +0 new · 0 descriptions updated · 0 fields updated · 0 closed · 0 reopened
-- **Runtime:** 516s
-- **Last Updated:** 2026-10-14 02:43 UTC
+- **Companies succeeded:** 48
+- **Companies failed:** 15
+- **Coverage:** 76%
+- **Raw postings scanned:** 1888
+- **This run:** +0 new · 0 descriptions updated · 0 fields updated · 1 closed · 0 reopened
+- **Runtime:** 540s
+- **Last Updated:** 2026-10-14 16:10 UTC
 
-<details><summary><b>Per-company source status (16 not healthy)</b></summary>
+<details><summary><b>Per-company source status (15 not healthy)</b></summary>
 
 | Company | Status | Detail | Method tried |
 |---------|--------|--------|--------------|
@@ -117,7 +115,6 @@ _None currently._
 | Portofino Technologies | `NO_ATS_DETECTED` | no known ATS found on the careers page |  |
 | Quantlab | `ROBOTS_BLOCKED` | https://www.quantlab.com/careers/ |  |
 | Radix Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
-| SIG (Susquehanna) | `JS_REQUIRED` | icims platform (browser-only ATS) |  |
 | Tradebot Systems | `JS_REQUIRED` | page appears JavaScript-rendered |  |
 | Webb Traders | `JS_REQUIRED` | page appears JavaScript-rendered |  |
 | XR Trading | `PAGE_NOT_FOUND` | HTTP 404 |  |
@@ -136,7 +133,6 @@ These firms block automated access (robots.txt / bot protection) or require Java
 - **GTS** — `ROBOTS_BLOCKED` → [careers page](https://gtsx.com/careers/)
 - **Millennium** — `ROBOTS_BLOCKED` → [careers page](https://www.mlp.com/careers/)
 - **Quantlab** — `ROBOTS_BLOCKED` → [careers page](https://www.quantlab.com/careers/)
-- **SIG (Susquehanna)** — `JS_REQUIRED` → [careers page](https://careers.sig.com/search-results)
 - **Tradebot Systems** — `JS_REQUIRED` → [careers page](https://www.tradebot.com/careers/)
 - **Webb Traders** — `JS_REQUIRED` → [careers page](https://www.webbtraders.com/careers/)
 

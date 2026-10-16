@@ -1,10 +1,10 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16 02:15 UTC",
+  "generated_at": "2026-10-16 15:46 UTC",
   "stats": {
-    "active_total": 11,
+    "active_total": 10,
     "by_company": {
-      "IMC Trading": 4,
+      "IMC Trading": 3,
       "Qube Research & Technologies": 2,
       "DRW": 1,
       "Hudson River Trading": 1,
@@ -14,14 +14,14 @@
     },
     "by_category": {
       "FPGA": 6,
-      "Hardware": 5
+      "Hardware": 4
     },
     "by_type": {
-      "Internship": 9,
+      "Internship": 8,
       "Graduate Program": 2
     },
     "by_country": {
-      "United States": 4,
+      "United States": 3,
       "Unknown": 3,
       "Netherlands": 2,
       "United Kingdom": 1,
@@ -30,10 +30,10 @@
     "added": 0,
     "updated": 0,
     "desc_updated": 0,
-    "closed_api": 0,
+    "closed_api": 1,
     "closed_stale": 0,
     "reopened": 0,
-    "raw_postings": 1871
+    "raw_postings": 1887
   },
   "active_jobs": [
     {
@@ -95,18 +95,6 @@
       "score": 95,
       "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4927149101",
       "first_seen": "2026-08-01 01:54 UTC"
-    },
-    {
-      "id": "imc-trading-greenhouse-4823945101",
-      "company": "IMC Trading",
-      "title": "Hardware Engineer Intern - Summer 2027",
-      "location": "Chicago, United States",
-      "country": "United States",
-      "type": "Internship",
-      "category": "Hardware",
-      "score": 95,
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4823945101",
-      "first_seen": "2026-07-14 02:58 UTC"
     },
     {
       "id": "qube-research-technologies-https-www-qube-rt-com-job-gh-jid-8742098002",

@@ -107,6 +107,12 @@
     "evidence": "discovered",
     "token": "mavensecuritiesholdingltd"
   },
+  "Old Mission Capital": {
+    "ats": "ashby",
+    "discovered_at": "2026-10-21 16:19 UTC",
+    "evidence": "guessed",
+    "token": "old-mission-capital"
+  },
   "Optiver": {
     "ats": "greenhouse",
     "discovered_at": "2026-07-14 03:00 UTC",
